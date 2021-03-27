@@ -138,15 +138,15 @@ def addColumnsAndSaveCSV(df, pathToSave):
     df["title_punctuation_percent"] = df.apply(lambda row: sum(1 for l in row.title if l in string.punctuation)/len(row.title), axis=1)
     df["title_n_of_emojis"] = df.apply(lambda row: str(countEmojis(row.title)), axis=1)
 
-    df["desc_clean"] = df.apply(lambda row: cleanText(str(row.description)), axis=1)
-    df["desc_length"] = df.apply(lambda row: len(str(row.description)), axis=1)
-    df["desc_n_of_words"] = df.apply(lambda row: len(str(row.description).split(' ')), axis=1)
-    df["desc_capital_letters"] = df.apply(lambda row: sum(1 for l in str(row.description) if l.isupper()), axis=1)
-    df["desc_capital_letters_percent"] = df.apply(lambda row: row.desc_capital_letters/row.desc_length, axis=1)
-    df["desc_small_letters"] = df.apply(lambda row: sum(1 for l in str(row.description) if l.islower()), axis=1)
-    df["desc_small_letters_percent"] = df.apply(lambda row: row.desc_small_letters/row.desc_length, axis=1)
-    df["desc_punctuation"] = df.apply(lambda row: sum(1 for l in RE_HTTP.sub(' ', str(row.description).replace(r'\n', ' ')) if l in string.punctuation), axis=1)
-    df["desc_punctuation_percent"] = df.apply(lambda row: sum(1 for l in str(row.description) if l in string.punctuation)/len(str(row.description)), axis=1)
+    df["desc_clean"] = df.apply(lambda row: cleanText(row.description), axis=1)
+    df["desc_length"] = df.apply(lambda row: len(row.description), axis=1)
+    df["desc_n_of_words"] = df.apply(lambda row: len(row.description.split(' ')), axis=1)
+    df["desc_capital_letters"] = df.apply(lambda row: sum(1 for l in row.description if l.isupper()), axis=1)
+    df["desc_capital_letters_percent"] = df.apply(lambda row: row.desc_capital_letters/row.desc_length if row.desc_length != 0 else 0, axis=1)
+    df["desc_small_letters"] = df.apply(lambda row: sum(1 for l in row.description if l.islower()), axis=1)
+    df["desc_small_letters_percent"] = df.apply(lambda row: row.desc_small_letters/row.desc_length if row.desc_length != 0 else 0, axis=1)
+    df["desc_punctuation"] = df.apply(lambda row: sum(1 for l in RE_HTTP.sub(' ', row.description.replace(r'\n', ' ')) if l in string.punctuation), axis=1)
+    df["desc_punctuation_percent"] = df.apply(lambda row: (sum(1 for l in row.description if l in string.punctuation)/len(row.description)) if len(row.description)!=0 else 0 , axis=1)
     df["desc_list_of_urls"] = df.apply(lambda row: json.dumps(getListOfURLs(row.description)), axis=1)
     df["desc_n_of_urls"] = df.apply(lambda row: len(getListOfURLs(row.description)), axis=1)
     df["desc_n_of_emojis"] = df.apply(lambda row: str(countEmojis(row.description)), axis=1)
@@ -155,6 +155,6 @@ def addColumnsAndSaveCSV(df, pathToSave):
     df["isTwitter"] = df.apply(lambda row: checkIfTwitterInListOfURLs(json.loads(row.desc_list_of_urls)), axis=1)
     df["isInstagram"] = df.apply(lambda row: checkIfInstagramInListOfURLs(json.loads(row.desc_list_of_urls)), axis=1)
     
-    df.to_csv(pathToSave)
+    df.to_csv(pathToSave, index=False)
     return df
 
