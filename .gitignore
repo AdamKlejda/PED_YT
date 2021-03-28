@@ -1,7 +1,7 @@
 data/
 venv/
-CRAFT-pytorch_/craft_mlt_25k.pth
-deep-text-recognition-benchmark_/TPS-ResNet-BiLSTM-Attn.pth
+CRAFT-pytorch/craft_mlt_25k.pth
+deep-text-recognition-benchmark/TPS-ResNet-BiLSTM-Attn.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
