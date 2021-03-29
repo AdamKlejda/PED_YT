@@ -48,7 +48,8 @@ def demo(opt):
 
 
     #modified
-    result_df = pd.DataFrame(columns=['video_id', 'word_id' ,'ocr_text'])
+#     result_df = pd.DataFrame(columns=['video_id', 'word_id' ,'ocr_text'])
+    result_df = pd.read_csv(opt.out_df_path)
     # result_df.append({'video_id':1, 'word_id': 1, 'ocr_text':"sdf"}, ignore_index=True)
     ###################
     
@@ -102,7 +103,8 @@ def demo(opt):
 
                 #modified
                 img_name_path = Path(img_name)
-                result_df = result_df.append({'video_id': img_name_path.parent.stem , 'word_id': img_name_path.stem , 'ocr_text': pred}, ignore_index=True)
+#                 result_df = result_df.append({'video_id': img_name_path.parent.stem , 'word_id': img_name_path.stem , 'ocr_text': pred}, ignore_index=True)
+                result_df.loc[(result_df.video_id==img_name_path.parent.stem) & (result_df.word_id==int(img_name_path.stem)), 'ocr_text'] = pred
                 ##################
 
             # log.close()
