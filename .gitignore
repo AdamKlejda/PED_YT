@@ -1,4 +1,5 @@
 data/
+our_data/Etap2/GB_US-07_ResNet.csv
 venv/
 CRAFT-pytorch/craft_mlt_25k.pth
 deep-text-recognition-benchmark/TPS-ResNet-BiLSTM-Attn.pth
