@@ -118,7 +118,7 @@ def concatAndCleanOcrTextV2(df):
     for word, bbox in word_box_dict.items():
         if word not in stopwords.words('english'):
             word = lemmatize(word)
-            if (len(word) > 2) and word in words.words():
+            if (len(word) > 2):# and word in words.words():
                 result_words_list.append(word)
                 result_bboxes_list.append(bbox)
 
