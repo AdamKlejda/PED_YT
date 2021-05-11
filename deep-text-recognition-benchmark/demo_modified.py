@@ -6,6 +6,10 @@ import torch.backends.cudnn as cudnn
 import torch.utils.data
 import torch.nn.functional as F
 
+import os
+cwd = os.getcwd()
+print(cwd)
+
 from utils import CTCLabelConverter, AttnLabelConverter
 from dataset import RawDataset, AlignCollate
 from model import Model
