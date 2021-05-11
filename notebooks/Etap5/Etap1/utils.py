@@ -106,20 +106,20 @@ def checkIfTwitterInListOfURLs(list_of_urls):
 def addColumnsAndSaveCSV(df, pathToSave):
     ###### Adam ######
     for index, row in df.iterrows():    
-        pubdate = datetime.strptime(row['publish_time'],'%Y-%m-%dT%H:%M:%S.%fZ')
+        pubdate = datetime.strptime(row['publish_time'],'%Y-%m-%d %H:%M:%S')
         df.loc[index,'pub_date'] = pubdate
         df.loc[index,'pub_day_of_the_week'] = pubdate.weekday()
         df.loc[index,'pub_year'] = pubdate.year
         df.loc[index,'pub_month'] = pubdate.month
         df.loc[index,'pub_day'] = pubdate.day
         df.loc[index,'pub_hour'] = pubdate.hour
-        trendate = datetime.strptime(row['trending_date'] + ' 23:59:59','%y.%d.%m %H:%M:%S') # Wymuszamy godzinę 23:59:59
-        df.loc[index,'tren_date'] = trendate
-        df.loc[index,'tren_day_of_the_week'] = trendate.weekday()
-        df.loc[index,'tren_year'] = trendate.year
-        df.loc[index,'tren_month'] = trendate.month
-        df.loc[index,'tren_day'] = trendate.day
-        df.loc[index,'time_to_trend_in_days'] = (trendate - pubdate).total_seconds()/(3600*24)
+        trendate = None
+        df.loc[index,'tren_date'] = None
+        df.loc[index,'tren_day_of_the_week'] = None
+        df.loc[index,'tren_year'] = None
+        df.loc[index,'tren_month'] = None
+        df.loc[index,'tren_day'] = None
+        df.loc[index,'time_to_trend_in_days'] = None
 
     df.loc[df['dislikes'] == 0, 'dislikes'] = 1
     df.loc[df['comment_count'] == 0, 'comment_count'] = 1
@@ -132,36 +132,46 @@ def addColumnsAndSaveCSV(df, pathToSave):
     df['dislikes/views'] = df['dislikes']/df['views']
     df['comment_count/views'] = df['comment_count']/df['views']
     unique = df['video_id'].unique()
-
-    for uid in unique:
-        temp = df[df['video_id']==uid]
-        times_in_trend = len(temp)
-        increase_views = 0
-        increase_likes = 0
-        increase_dislikes = 0
-        increase_comms = 0
-        indexes =  temp.index.values.tolist() 
-        if times_in_trend > 1:
-            increase_views = temp['views'][indexes[1]] - temp['views'][indexes[0]]
-            increase_likes = temp['likes'][indexes[1]] - temp['likes'][indexes[0]]
-            increase_dislikes = temp['dislikes'][indexes[1]] - temp['dislikes'][indexes[0]]
-            increase_comms = temp['comment_count'][indexes[1]] - temp['comment_count'][indexes[0]]
-
-        df.loc[indexes[0],'increase_views'] = increase_views
-        df.loc[indexes[0],'increase_likes'] = increase_likes
-        df.loc[indexes[0],'increase_dislikes'] = increase_dislikes
-        df.loc[indexes[0],'increase_comms'] = increase_comms
-        df.loc[indexes[0],'times_in_trend'] = times_in_trend
-        df.loc[indexes[0],'avg_views'] = np.mean(temp['views'])
-        df.loc[indexes[0],'avg_likes'] = np.mean(temp['likes'])
-        df.loc[indexes[0],'avg_dislikes'] = np.mean(temp['dislikes'])
-        df.loc[indexes[0],'avg_comms'] = np.mean(temp['comment_count'])
-#         df.loc[indexes[0],'avg_views_increase_per_hour'] = temp['views'][0] / temp['time_to_trend_in_days'][0]
-    df = df[df['avg_comms'] >= 0] 
     
-    df["avg_views_increase_per_hour"] = df.apply(lambda row: row.views/row.time_to_trend_in_days, axis=1)
+    df.loc[:, 'increase_views'] = None
+    df.loc[:,'increase_likes'] = None
+    df.loc[:,'increase_dislikes'] = None
+    df.loc[:,'increase_comms'] = None
+    df.loc[:,'times_in_trend'] = None
+    df.loc[:,'avg_views'] = None
+    df.loc[:,'avg_likes'] = None
+    df.loc[:,'avg_dislikes'] = None
+    df.loc[:,'avg_comms'] = None
+    
+#     for uid in unique:
+#         temp = df[df['video_id']==uid]
+#         times_in_trend = len(temp)
+#         increase_views = 0
+#         increase_likes = 0
+#         increase_dislikes = 0
+#         increase_comms = 0
+#         indexes =  temp.index.values.tolist() 
+#         if times_in_trend > 1:
+#             increase_views = temp['views'][indexes[1]] - temp['views'][indexes[0]]
+#             increase_likes = temp['likes'][indexes[1]] - temp['likes'][indexes[0]]
+#             increase_dislikes = temp['dislikes'][indexes[1]] - temp['dislikes'][indexes[0]]
+#             increase_comms = temp['comment_count'][indexes[1]] - temp['comment_count'][indexes[0]]
+
+#         df.loc[indexes[0],'increase_views'] = None
+#         df.loc[indexes[0],'increase_likes'] = None
+#         df.loc[indexes[0],'increase_dislikes'] = None
+#         df.loc[indexes[0],'increase_comms'] = None
+#         df.loc[indexes[0],'times_in_trend'] = None
+#         df.loc[indexes[0],'avg_views'] = None
+#         df.loc[indexes[0],'avg_likes'] = None
+#         df.loc[indexes[0],'avg_dislikes'] = None
+#         df.loc[indexes[0],'avg_comms'] = None
+#         df.loc[indexes[0],'avg_views_increase_per_hour'] = temp['views'][0] / temp['time_to_trend_in_days'][0]
+#     df = df[df['avg_comms'] >= 0] 
+    
+    df["avg_views_increase_per_hour"] = None
     ###### Marcin ######
-    df['tags'] = df['tags'].apply(lambda tags: json.dumps(tags.replace('"','').split('|')))
+#     df['tags'] = df['tags'].apply(lambda tags: json.dumps(tags.replace('"','').split('|')))
     df["n_of_tags"] = df.apply(lambda row: len(json.loads(row.tags)), axis=1)
 
     df["title_clean"] = df.apply(lambda row: cleanText(row.title), axis=1)
