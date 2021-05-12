@@ -1,0 +1,501 @@
+,0,1
+0,['Happy'],hYX9D8nfSFU
+1,"['Sad', 'Angry']",BMi2L18eprA
+2,['Happy'],fwRqhtwgMRw
+3,[],rN51MUSI3kI
+4,['Angry'],5Epez-jCTic
+5,"['Angry', 'Angry']",8EQAwrDwE6Y
+6,"['Neutral', 'Happy']",thRCj1TCZWs
+7,"['Neutral', 'Sad', 'Sad', 'Angry', 'Happy', 'Sad', 'Angry', 'Neutral', 'Sad', 'Sad', 'Sad', 'Happy', 'Angry', 'Angry', 'Sad']",AprlXwXJo4Q
+8,"['Happy', 'Happy']",Av5h1GDwmSU
+9,['Neutral'],aUDPgNp5KB8
+10,['Happy'],VcLEEADb334
+11,['Neutral'],i7gzWkjlII4
+12,"['Surprise', 'Happy']",bxNmfTrEa-0
+13,['Happy'],w4jK3D9-o3c
+14,"['Angry', 'Happy']",Au5Zqy37tzY
+15,"['Sad', 'Happy', 'Angry', 'Sad']",vfn-__0Rmrc
+16,[],wmHUuRWkdUg
+17,[],svZ45HnWDpc
+18,[],nr_KYcGO3vw
+19,['Happy'],AWFan7Ix_jQ
+20,"['Neutral', 'Angry']",0mCqKPBSgYQ
+21,"['Happy', 'Happy']",vSCiyI-6Ru0
+22,['Happy'],LprsAUXJJHQ
+23,[],OX-BtaRKbF8
+24,['Fear'],8S_HPyrEcps
+25,['Happy'],6m8phuyOAVQ
+26,['Fear'],TfF8FJigxsE
+27,"['Fear', 'Happy', 'Sad', 'Angry']",frDzk6jr3iI
+28,[],3w8stfnkEiQ
+29,"['Happy', 'Happy', 'Angry']",CE7UTlGI_6c
+30,"['Sad', 'Sad', 'Sad']",qo9HXsIUj30
+31,[],IM1oxebrsp4
+32,[],aV4Nli38vDU
+33,[],MPLUBv97Tg4
+34,"['Sad', 'Angry']",jcDr2cYvW4o
+35,['Happy'],HtylEh0Y-6k
+36,['Happy'],E8UtZdpXe-0
+37,"['Angry', 'Fear', 'Happy', 'Sad']",t2VwD35EHtg
+38,"['Angry', 'Happy', 'Angry']",9xCr6IQtYqk
+39,"['Sad', 'Neutral']",nicFpVJ94gc
+40,['Sad'],rA6OpPlxJ0o
+41,"['Sad', 'Fear']",9CiKvuTPHvI
+42,['Sad'],pNBTtW0kyKE
+43,['Angry'],yeKfi1-re0c
+44,"['Happy', 'Happy']",TTpmxbzkVUA
+45,[],Chr5Us7k41k
+46,['Neutral'],xev6mmpd_9E
+47,"['Happy', 'Neutral']",XX5McntVCd4
+48,"['Sad', 'Happy']",RcYiKESklIA
+49,"['Sad', 'Sad']",uUxNjBoHxBw
+50,['Fear'],XHda4tSlRmQ
+51,"['Happy', 'Happy']",ZM2-joHCNSc
+52,[],WU1C-zXDHis
+53,[],U17EhiH2L8Q
+54,"['Angry', 'Fear', 'Sad', 'Angry']",KgGYcdKrbag
+55,"['Happy', 'Fear', 'Fear', 'Happy']",PJBbl7N9BQc
+56,['Happy'],S9GbMZkNO70
+57,"['Happy', 'Happy', 'Happy']",PbH8oC_OyVM
+58,[],LZzsraUKJs4
+59,[],TIfO5OVt5EU
+60,[],-fH0ITV7cjI
+61,"['Happy', 'Happy', 'Happy']",QT6SOdngu9Q
+62,"['Sad', 'Fear', 'Sad']",5J3ecAlj7Wo
+63,['Neutral'],3OPGysCwyvo
+64,['Neutral'],odxnfu0Bprw
+65,['Angry'],oJ6kNLqktI4
+66,"['Happy', 'Neutral', 'Happy', 'Happy']",TPZYvBIV-cs
+67,['Angry'],H_rdHJlfFrI
+68,[],a_2gWrXjahw
+69,[],Fl21uVQNxSI
+70,"['Neutral', 'Happy']",4zzoEd4M038
+71,"['Neutral', 'Fear']",diuagVWalYQ
+72,[],JOk0l-lb3Mo
+73,"['Neutral', 'Happy']",1FbjeL74yWU
+74,['Sad'],sYjJbYyWxUM
+75,[],rdFXddVsUuQ
+76,['Sad'],BUMaBZCX3IM
+77,"['Happy', 'Happy', 'Sad', 'Happy', 'Happy', 'Happy', 'Happy', 'Happy', 'Sad']",bfkwAAi4t2M
+78,[],yKbJKJ_whHY
+79,[],wJGE4aEWc28
+80,"['Sad', 'Neutral']",lHZvh3L92R4
+81,[],ZSLCeKfOwq8
+82,"['Sad', 'Happy']",jPXvHlY8iEY
+83,['Happy'],02hY6r-dOqc
+84,['Neutral'],Cp8t8AweRH0
+85,[],78N2ydKhEMw
+86,[],ko_k8a8o_9s
+87,"['Fear', 'Neutral']",GqRo9xYKnfA
+88,"['Angry', 'Angry']",VPaFRrTJZ4U
+89,[],N1Yd_CXkdi4
+90,[],c2nOiOaVA3Y
+91,"['Happy', 'Happy', 'Angry', 'Sad', 'Sad', 'Sad']",I6UvPoKzL-A
+92,"['Neutral', 'Happy', 'Neutral', 'Happy', 'Sad']",q6KuEJslmbo
+93,['Neutral'],1uF8UfMHygs
+94,[],9wU7suyqymQ
+95,"['Fear', 'Neutral']",Q0zKu7ACnnI
+96,"['Neutral', 'Fear', 'Surprise', 'Sad']",EhzRdwR0qfw
+97,['Happy'],lmkRzT90LWA
+98,[],9A8-HEROV38
+99,['Sad'],XKvUeDaIf7w
+100,['Neutral'],CmMxoSlypus
+101,[],HJYqgZDmsZo
+102,[],PkI2BRjKYd8
+103,[],RHnw7fkN0_s
+104,['Sad'],D6ZMWwFS85I
+105,"['Sad', 'Happy']",F9UdjAHRo1Q
+106,['Happy'],7l-dD4xNk-M
+107,['Happy'],cyJa3-nTu5s
+108,['Surprise'],QP2QOE01mgw
+109,['Fear'],PFoiWRIoly8
+110,[],6VMVbx5VLaY
+111,[],9MYwxLN-ykQ
+112,"['Neutral', 'Sad', 'Neutral']",xYnnBXeRKFI
+113,['Fear'],C1v5VJufZR8
+114,['Neutral'],3mE6_OmaG6c
+115,[],NM4AdfEnAmY
+116,"['Fear', 'Happy']",GYAIB69H-mI
+117,[],im-x8D61dis
+118,"['Happy', 'Sad']",d-ZxeQlanKM
+119,['Happy'],Psy9GHdLNhc
+120,[],jcV-bvo4rzs
+121,[],ol6JR8d9UIA
+122,[],t5WLY-ZnrP0
+123,['Neutral'],OdyepkGhQ34
+124,[],0_kepeaka-Q
+125,[],ftHeKHaiHyI
+126,['Sad'],JenfHJjlKrg
+127,"['Neutral', 'Happy']",49q2bBMy8-A
+128,"['Sad', 'Sad']",IUYELufJ1AM
+129,"['Happy', 'Angry']",9IRsXU5oTUs
+130,['Happy'],N97WlsHpRyI
+131,"['Happy', 'Neutral']",BhUggtyCNq4
+132,['Happy'],F-J8OF7YrGw
+133,"['Happy', 'Sad', 'Angry']",MG6Q0y6zWDQ
+134,['Happy'],Z8FognM8CRU
+135,"['Neutral', 'Sad', 'Angry']",8EbXti5fxTM
+136,"['Happy', 'Sad']",VWO9oqsDPZQ
+137,[],3_3FCAbNyMM
+138,[],XNGfMc_RU64
+139,[],nPp9Yr4ZFBw
+140,"['Happy', 'Surprise']",0YV7mINQ50Q
+141,[],rEfCsyfJk0c
+142,['Angry'],LK08hQoDYuY
+143,['Angry'],xrlT2UNQ_AM
+144,['Neutral'],XaknfJx-oH4
+145,['Sad'],86Kc0YcN2CY
+146,[],RROs-zCrSko
+147,"['Happy', 'Happy']",oOGYDleQKls
+148,"['Happy', 'Happy', 'Happy', 'Happy']",9rkWiLaiECo
+149,['Angry'],V0XOApF5nLU
+150,['Angry'],WhSXWDCwI9A
+151,"['Happy', 'Happy', 'Happy']",EFW4AiHYKAY
+152,['Happy'],Mhlpk5ZrYLM
+153,"['Happy', 'Neutral']",trZmij-G0JY
+154,['Happy'],BWQ1SzDKG7w
+155,"['Sad', 'Angry']",plQWHVIlaPc
+156,"['Fear', 'Happy']",OAg-OeCYjKs
+157,[],5boB4wdqJIk
+158,"['Happy', 'Happy']",36j_PxlzrNA
+159,"['Happy', 'Happy', 'Happy']",GzD_SnpWCpw
+160,['Neutral'],JyG5PjNKqh4
+161,"['Angry', 'Sad', 'Angry', 'Sad', 'Happy', 'Sad', 'Happy', 'Happy', 'Neutral', 'Happy', 'Fear']",AllSPzqo_E4
+162,['Angry'],Op32ceUc9zw
+163,['Neutral'],jcO8esPj8-U
+164,"['Sad', 'Happy', 'Neutral', 'Sad', 'Neutral', 'Happy', 'Neutral', 'Neutral', 'Sad']",nX0FjhCBMGE
+165,"['Sad', 'Neutral']",DyKGdsN-wRY
+166,"['Happy', 'Neutral', 'Neutral']",GVORz_cd3q0
+167,['Angry'],4_TAyOPsb2E
+168,"['Neutral', 'Neutral', 'Happy']",fGATYOMajig
+169,"['Sad', 'Happy', 'Sad']",Oc265QiC4eM
+170,"['Happy', 'Sad', 'Angry']",qdZpNjcaiKA
+171,"['Neutral', 'Happy']",5Wj2femURrg
+172,[],Y1qilfrkyTc
+173,[],c9Bvp8bfTLo
+174,[],-LikU99ut4w
+175,['Neutral'],Hcrx7uyyaY4
+176,['Neutral'],0zmFDJh0ghE
+177,"['Neutral', 'Happy']",ej3K0LMI2EI
+178,"['Angry', 'Angry']",20N4OjYyx5s
+179,['Fear'],znEKnC47YyY
+180,['Sad'],T3-f_VoD7eE
+181,[],GSgVBZ7nnxg
+182,['Happy'],Mblur8gBI68
+183,['Happy'],w6ffL3PJ2Og
+184,"['Happy', 'Sad']",CTyr7ud-wiA
+185,"['Happy', 'Happy', 'Happy']",EBb_JROtJiw
+186,['Angry'],bJB7-eL9xNc
+187,"['Neutral', 'Angry', 'Sad']",Ehdfz8f7770
+188,[],xe2FPP4lX14
+189,['Fear'],aH80Yj4si_s
+190,['Fear'],iJELovMS9HA
+191,[],UYi_rUZJOJY
+192,"['Neutral', 'Neutral', 'Sad', 'Happy', 'Neutral']",tUSZhmFx2mM
+193,[],LvA0vNP7eGY
+194,['Happy'],s12nFqnzUc4
+195,['Fear'],i4VceH-yvlU
+196,['Neutral'],RVkMmDjdjUM
+197,[],r3FloltV_Qg
+198,"['Neutral', 'Angry']",F9biS_j79eU
+199,['Angry'],mRosiCYbv_U
+200,"['Sad', 'Angry', 'Happy', 'Neutral', 'Happy']",eAsr78i7wfI
+201,"['Happy', 'Happy', 'Sad']",yCvl9Fs_AFI
+202,"['Neutral', 'Happy', 'Happy', 'Angry']",vITRmEqTk38
+203,['Happy'],wLqL7zPcjP4
+204,[],He5NctQPXK8
+205,['Happy'],H7p5YEOrlSc
+206,"['Neutral', 'Happy', 'Neutral']",AZ1eicNuTZI
+207,"['Neutral', 'Happy', 'Neutral']",KGFS_lkUk9w
+208,"['Happy', 'Sad', 'Sad', 'Happy']",z8Vu_QMB0Z8
+209,"['Angry', 'Sad', 'Neutral', 'Angry', 'Neutral']",yov1KQE40UE
+210,['Happy'],OVUuPxox0ts
+211,['Angry'],ZypNuWNNnao
+212,[],mTPiTJ2bKS0
+213,['Neutral'],fGUWPioQRuo
+214,['Angry'],xS1nqnArb38
+215,[],8FjzcPrab78
+216,"['Angry', 'Happy', 'Sad']",l5vcgT-Ud4c
+217,['Neutral'],8mtsT9jKXlw
+218,['Neutral'],Sk5TFr-HOyE
+219,['Sad'],wAmbqX0YUTc
+220,"['Neutral', 'Fear', 'Happy', 'Fear', 'Sad']",RAz_Lkgd6k0
+221,[],PhY6P4e1opE
+222,['Happy'],b3vzRX_HnSk
+223,['Angry'],veVBbxZyzKU
+224,"['Neutral', 'Sad', 'Angry']",RwUA9JB8iYg
+225,['Happy'],xcUA2pfXFCA
+226,"['Happy', 'Happy', 'Angry', 'Sad']",OSnndj5JLCo
+227,"['Neutral', 'Sad']",-5I4FCUo7AA
+228,['Sad'],Jl1ZGJBfyvc
+229,[],jUU5Ivv6wp4
+230,['Sad'],mQrij7m7uow
+231,['Happy'],0h5d0byMthI
+232,[],QIC2jd1R1Ow
+233,['Angry'],3M1A5Ykdbr8
+234,"['Sad', 'Angry', 'Angry', 'Happy', 'Neutral']",kg8GkB6-jFo
+235,['Happy'],jyZA8DQAPrY
+236,['Neutral'],jNvc3T3RG3c
+237,"['Angry', 'Angry', 'Angry', 'Sad']",wtXXbiy1fxQ
+238,['Neutral'],uBre8bymc04
+239,"['Fear', 'Neutral']",6NQZ9W7Wwzk
+240,"['Angry', 'Sad', 'Sad', 'Angry', 'Sad']",KC3MutXeqHc
+241,[],pW71JqzCcyA
+242,['Happy'],ZAkQjvK3coo
+243,[],ixRKeQMa7Nc
+244,"['Angry', 'Happy', 'Angry']",iIOwcUtJ0XU
+245,['Sad'],6Mf2ylffKws
+246,"['Sad', 'Angry']",JJUZfcSSApM
+247,[],mrJEy6n3wcU
+248,"['Happy', 'Sad', 'Happy']",WZorvy6c8Pc
+249,['Happy'],2f6akTpjIHo
+250,"['Sad', 'Sad', 'Sad', 'Angry']",4nBpZdyWKZ0
+251,"['Fear', 'Angry']",hFYGEFc0Jnc
+252,"['Sad', 'Fear']",ME7p1T6g7Xc
+253,[],I1Sjg7avJNI
+254,['Happy'],EntllLEgcXw
+255,"['Happy', 'Sad', 'Happy']",EHeEeP1u8f0
+256,['Sad'],Bf_IMeCz1M0
+257,"['Happy', 'Happy']",WTp1uhRXqMs
+258,[],J__M-hPkh5c
+259,['Happy'],1IJ5dx2ItUE
+260,['Sad'],r0fhXk3nP70
+261,[],GqjStYKqy1M
+262,[],sElo8EDvr20
+263,[],0Za_L_fbg2w
+264,['Neutral'],zt7CrWqlh_U
+265,['Neutral'],mukT7PnJE1Q
+266,['Sad'],jUTtY4JQKeM
+267,['Angry'],1A6Pfbbv3Ww
+268,['Happy'],uwNKLuy-x-I
+269,"['Happy', 'Happy', 'Happy', 'Neutral', 'Happy', 'Happy', 'Sad', 'Neutral', 'Happy']",pa5LQc3SvWo
+270,['Happy'],I_6R0igYISc
+271,['Happy'],bGb110ji4uw
+272,[],v4JXjYCgQK4
+273,"['Happy', 'Happy']",-t6j0S24DIw
+274,"['Neutral', 'Happy', 'Neutral']",se24GFGoaI4
+275,[],Y4jrOkBgl5c
+276,"['Fear', 'Happy']",Gbgqvivc5rI
+277,[],UI5FJ-ZpznA
+278,['Sad'],HqcyKI6FNPc
+279,[],25gwHv3R3X4
+280,[],-z6fofgQlOA
+281,"['Sad', 'Sad']",TADmmnhYmxM
+282,['Happy'],kzqFc5ngc4w
+283,[],AvxFzD2rZv4
+284,"['Happy', 'Happy']",o2rh0ZLuw30
+285,"['Happy', 'Happy']",b2DcxFgvHmo
+286,[],bbeetdcXnFY
+287,['Angry'],JtGca1Kk0Mc
+288,[],Bh31qC27pAk
+289,['Neutral'],l5_foDaatxM
+290,['Angry'],_FrH-cWnBIw
+291,"['Neutral', 'Sad', 'Neutral', 'Happy']",Xw_RS1Ovpns
+292,[],9Dr5t_fIiyM
+293,['Angry'],3FLRLO8DWj0
+294,[],dOFa-TsPoGk
+295,[],7H471UiCk28
+296,['Happy'],17tTDoLf_K4
+297,"['Sad', 'Angry']",3Laf8TJ2ASI
+298,"['Angry', 'Sad', 'Sad']",FLnAK41cRm4
+299,['Angry'],tKVK3s6l4_A
+300,[],jerv7gy5Msg
+301,[],lfk_v5EmnWU
+302,['Happy'],ktFaoeehDW8
+303,"['Happy', 'Happy']",-wd9sIDz46k
+304,"['Neutral', 'Happy']",i_sf5fqQPYc
+305,"['Happy', 'Fear']",vsWU_ZgzSmo
+306,[],53WwLLz4Jhs
+307,['Happy'],S-bJ9NIubuw
+308,['Sad'],yAZSHZaey0Y
+309,"['Neutral', 'Happy', 'Angry']",YLaXuFz_gPM
+310,"['Sad', 'Neutral', 'Sad', 'Angry']",NR2m0jEp_a8
+311,['Sad'],Oy1Bm2nbkCc
+312,"['Neutral', 'Neutral']",6JQxmiarfgY
+313,"['Fear', 'Neutral', 'Fear', 'Happy', 'Sad']",IQG4_SJGgtU
+314,['Happy'],_Hy8fg7Qe84
+315,['Happy'],iNsBH-udOAo
+316,"['Happy', 'Happy', 'Fear']",ToYeyRA6xvc
+317,"['Happy', 'Happy']",FYYLGMtBPEE
+318,"['Happy', 'Happy']",NhKAcanAkio
+319,"['Happy', 'Happy', 'Happy']",2p3TVU-q7OU
+320,[],IGRMGmPw3Kw
+321,['Happy'],zMag1Q-gAks
+322,"['Angry', 'Angry', 'Angry', 'Angry', 'Happy', 'Happy', 'Neutral', 'Happy']",T5u_GKzXWXc
+323,[],zY0C5M9KPNc
+324,['Happy'],_-1A-g5fr0Y
+325,['Fear'],3-1LFKZr188
+326,"['Sad', 'Angry', 'Happy']",-AfdOwsGNsU
+327,"['Angry', 'Angry', 'Sad', 'Angry', 'Neutral']",n81CHtCz5l0
+328,[],-UHnyE55wUM
+329,"['Angry', 'Angry']",uMksQ12ojww
+330,[],aferSOiA9BI
+331,"['Neutral', 'Sad']",Hvhv1a3nCqY
+332,"['Happy', 'Sad', 'Sad']",NK4mdXlUriw
+333,[],a2GXMzgBWnY
+334,['Sad'],BGhOCXGkQao
+335,['Happy'],OCJ11GkpiaU
+336,[],4MPa5i1t0ic
+337,"['Neutral', 'Sad', 'Neutral', 'Happy']",YPJdbyo_0Js
+338,[],KAGQtatt-bQ
+339,"['Sad', 'Sad']",E6WnwciDbbE
+340,[],rk1AUz-bRq8
+341,['Neutral'],nAUTEKNnWkE
+342,['Neutral'],_1PxnoVsUm8
+343,['Happy'],13HoDhv8YEs
+344,['Happy'],twmu9ytH4kY
+345,"['Neutral', 'Happy']",z1ddM-FpiMg
+346,['Happy'],CZ23KGgQ6rE
+347,[],idi7l3FCshc
+348,"['Happy', 'Happy', 'Happy']",G8ByYE-q0F8
+349,['Happy'],2iKJ-nkOkPU
+350,"['Neutral', 'Neutral']",JDQBOJfEHDI
+351,['Angry'],MsyQ3na4HNA
+352,[],wjoeVwJTUTA
+353,['Sad'],3-zGZ9Yt7UM
+354,"['Neutral', 'Happy', 'Neutral']",YeJdrOGW3NQ
+355,"['Neutral', 'Fear', 'Sad']",PtXwS40iaNs
+356,['Happy'],wHPHyxAi8u4
+357,['Angry'],Q9C1_WGcjaE
+358,[],iiMDfLY-TXc
+359,['Fear'],K6jSGIW3l1o
+360,['Neutral'],q_GUuyRpVGk
+361,['Neutral'],09lXNRbzBwQ
+362,[],ok4M4tqwaFY
+363,"['Fear', 'Happy', 'Happy', 'Neutral']",hDPZvTcKyzw
+364,[],VektcPnvrro
+365,[],9o-ffa5ykHQ
+366,['Happy'],0eCaEbEfL7w
+367,"['Happy', 'Sad']",xNC0VAQydvk
+368,"['Happy', 'Fear', 'Happy']",fw5spk6F47c
+369,"['Fear', 'Happy']",dFssKo15Fl0
+370,"['Happy', 'Happy']",5ff-SFFaHUE
+371,['Neutral'],wRKxIO8ILpw
+372,"['Sad', 'Fear']",jfJ5EAk0XLM
+373,"['Neutral', 'Happy', 'Happy', 'Neutral', 'Surprise']",BNtvTr4hADk
+374,[],dHOMRaKvwYU
+375,"['Happy', 'Angry', 'Happy']",KqKa2Gc7lh8
+376,['Happy'],OtWD92LDd1I
+377,"['Sad', 'Sad', 'Sad', 'Angry', 'Angry']",913xd1JiJWc
+378,"['Happy', 'Happy', 'Happy', 'Fear', 'Neutral', 'Happy']",PzXXEQ9fXZw
+379,['Sad'],jLbpMxZwZ-c
+380,"['Happy', 'Neutral']",abAfWsH8LTM
+381,[],Cksa4OJG2H8
+382,"['Happy', 'Fear']",rK-DI7cvo-U
+383,"['Sad', 'Happy', 'Sad']",QpGQel9AXzU
+384,[],1Ns3pIf3FYo
+385,[],fiQbOWvqVco
+386,"['Sad', 'Sad', 'Sad']",UClZvtrFoUk
+387,[],uMixUd1pY3s
+388,[],tPGMwBDXTVU
+389,"['Sad', 'Happy']",IHYj2hfPYos
+390,[],luoCvETZnVI
+391,['Happy'],SGc4hpHIBIE
+392,"['Angry', 'Fear', 'Neutral', 'Angry']",i10ppb_yKUU
+393,[],t2tKuUxLdMk
+394,['Happy'],mzJ6X-dkwNE
+395,"['Sad', 'Sad']",DyCfCl46JSE
+396,['Neutral'],MFL70WfYe4E
+397,"['Sad', 'Happy']",1uf2hIAXG8w
+398,"['Angry', 'Neutral']",MFSirTfmAUY
+399,[],4HPnf15i-Ls
+400,[],JA3XjEXMxj8
+401,['Happy'],qZA00XXG5aI
+402,['Happy'],SynVdC540nw
+403,"['Happy', 'Angry', 'Happy', 'Happy', 'Happy']",l1_kIP-BNJA
+404,[],WjBYRUZbU4Y
+405,"['Happy', 'Neutral']",ROByUohCVcs
+406,"['Sad', 'Neutral']",7mhfDUc9LLo
+407,"['Angry', 'Sad', 'Fear', 'Sad', 'Sad', 'Neutral', 'Happy', 'Happy', 'Happy', 'Neutral', 'Neutral', 'Happy']",4Wi1PzmHKvg
+408,[],pIgb-3e8CWA
+409,[],t-reItrutMI
+410,[],CtQMrlpvreQ
+411,['Angry'],mm1nFBYMko4
+412,[],8HslUzw35mc
+413,"['Sad', 'Angry']",cO6Elnx39Bc
+414,"['Angry', 'Angry', 'Sad', 'Happy', 'Angry', 'Happy', 'Sad', 'Happy', 'Happy', 'Surprise', 'Happy', 'Sad']",YZxfZknahtw
+415,['Angry'],uvVIL5-Ckpg
+416,['Angry'],99vVvznj0P8
+417,['Happy'],yVJtCkKYD3k
+418,"['Sad', 'Sad']",6OXbJHsKB3I
+419,"['Happy', 'Happy', 'Sad']",S9y6JFR6vnM
+420,"['Neutral', 'Angry', 'Happy']",ICTvww4rBCI
+421,"['Sad', 'Happy', 'Fear']",DTvgT6nlW58
+422,"['Fear', 'Angry', 'Angry']",ovBiGC2jGhU
+423,['Angry'],Z3i7_gwnm6o
+424,"['Happy', 'Angry']",FY81DRYLoac
+425,[],Ghah8qVjP_4
+426,"['Angry', 'Sad', 'Sad']",SGcfwjvQVDs
+427,['Happy'],4PY-OWqeKFg
+428,[],H-Aog6nmIeY
+429,"['Sad', 'Neutral', 'Angry', 'Neutral', 'Sad']",LzphbPvAeeQ
+430,[],lOEqzt36JEM
+431,[],BURBlSYPmBU
+432,"['Neutral', 'Sad', 'Angry', 'Sad']",GeA0iXWH_i0
+433,"['Sad', 'Sad']",0F5I9aVFUOs
+434,"['Happy', 'Fear', 'Neutral', 'Sad']",guJ6uYlLzDs
+435,"['Angry', 'Happy']",WfZqmyeASMw
+436,['Sad'],R1oJPCVz0aU
+437,['Neutral'],ohimb81VIKo
+438,"['Happy', 'Neutral']",oKl3pPQ-IRc
+439,['Sad'],DHROs7F6PC4
+440,"['Angry', 'Sad']",_F_8HtIj-To
+441,[],EPnGTRrYW5M
+442,"['Happy', 'Happy', 'Happy', 'Happy', 'Sad', 'Happy']",z74OwRy8o9I
+443,"['Happy', 'Happy']",4Jt_7zVLeRk
+444,[],sn5S30IgkC0
+445,"['Fear', 'Sad', 'Neutral']",mRKOYdTd7O8
+446,"['Neutral', 'Fear']",_Zs4J8kq-Wg
+447,[],heXp2tyDl6k
+448,"['Happy', 'Neutral', 'Happy']",kuzLz9a6pa4
+449,['Surprise'],I8WjeKOftac
+450,[],WfkEIXpAzzM
+451,"['Fear', 'Neutral']",hreGatWkrmE
+452,[],hfuG4x9Sa8U
+453,"['Happy', 'Neutral', 'Sad', 'Fear']",hr7qEdL4s5A
+454,['Happy'],hSUSQ2jPFJE
+455,['Happy'],b84ESEeD_Qc
+456,['Sad'],DIuVEGVmTTc
+457,[],Zb2HiY91QWU
+458,['Fear'],NuNyTjXLFYE
+459,['Sad'],0jSxvjT6Ec0
+460,[],XHk41fVci_8
+461,['Angry'],ehV_I7LEXbA
+462,"['Neutral', 'Neutral', 'Neutral', 'Sad']",dBHNK67MTNU
+463,['Sad'],3ynmC1-YAEc
+464,"['Neutral', 'Sad', 'Happy']",ig9j0O9GA1s
+465,['Happy'],c9BrubDp1rE
+466,"['Happy', 'Happy', 'Sad', 'Neutral']",3vAuBV2oMqg
+467,[],66ihjzHzdW4
+468,['Sad'],S5AtfgH5bt4
+469,"['Happy', 'Happy']",MdmGtxyzwHA
+470,['Angry'],enuOArEfqGo
+471,"['Neutral', 'Neutral', 'Neutral']",kLw__LA0JgM
+472,"['Happy', 'Neutral']",CjwGk6IVuz0
+473,['Neutral'],6S3S1JXcI30
+474,['Angry'],X9TQZ4zrG9A
+475,[],WQkWcc_iFYU
+476,['Neutral'],unaRagDUS30
+477,['Happy'],hmcOKNSBEUA
+478,"['Sad', 'Angry', 'Sad']",poPH_3mtcOg
+479,[],ZGmJyQzb7Vk
+480,"['Neutral', 'Neutral']",cKru1Y_AwHo
+481,['Neutral'],Vjk_MgOvFSk
+482,['Angry'],3L7PjIP9Xic
+483,"['Happy', 'Neutral']",ipiq0Eix2Qw
+484,[],BLyt-wcN1uM
+485,[],GzmnrebAFp0
+486,"['Happy', 'Sad']",t9E8jciWfPo
+487,[],G1O5wSfmi6M
+488,"['Happy', 'Angry']",LlyV-hvcFwA
+489,['Sad'],wHobbiH4I4g
+490,['Fear'],a3zv6-eBHyU
+491,"['Angry', 'Happy']",NSRSsXZdQMY
+492,[],rMsQ3CCeOkI
+493,['Sad'],ISQtw6irSHA
+494,"['Happy', 'Sad', 'Happy']",8s9FV26Iaro
+495,"['Happy', 'Happy', 'Happy']",Ns54x93fSpE
+496,"['Neutral', 'Sad', 'Angry', 'Fear']",hagSEVPUX5E
+497,['Happy'],J02iZ3FvRoc
+498,"['Neutral', 'Sad']",Wa8-lElti1E
+499,['Neutral'],AY1v7fpYVj8

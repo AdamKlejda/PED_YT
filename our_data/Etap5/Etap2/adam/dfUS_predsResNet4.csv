@@ -1,0 +1,501 @@
+,0,1
+0,"[['comic book', 0.20874119], ['prison', 0.16403107], ['carton', 0.12309178], ['crate', 0.037754502], ['book jacket', 0.02301016]]",6BJokXg8eLE
+1,"[['television', 0.09313356], ['Petri dish', 0.066167794], ['gong', 0.06153388], ['home theater', 0.037990134], ['space shuttle', 0.03696034]]",VYhAB8pbiBI
+2,"[['home theater', 0.2594088], ['comic book', 0.2531781], ['television', 0.22952184], ['cinema', 0.06284696], ['screen', 0.01743777]]",XbxRYpuJqDU
+3,"[['comic book', 0.95420927], ['television', 0.010300959], ['book jacket', 0.0023210559], ['web site', 0.0012146239], ['home theater', 0.0007839755]]",Wjj3wihtYbs
+4,"[['toyshop', 0.5379032], ['comic book', 0.12773232], ['television', 0.098505385], ['teddy', 0.03692097], ['monitor', 0.023593698]]",I9aOttdqoOU
+5,"[['comic book', 0.2674159], ['cloak', 0.18651733], ['mask', 0.039712474], ['cowboy boot', 0.029663611], ['shield', 0.027475948]]",IYpenpqszoI
+6,"[['bow tie', 0.42493978], ['comic book', 0.10199561], ['theater curtain', 0.06985108], ['book jacket', 0.024651086], ['television', 0.015644493]]",BAypsYh4tuo
+7,"[['ice lolly', 0.23535559], ['nipple', 0.14724974], ['jigsaw puzzle', 0.07975307], ['pick', 0.07933917], ['bubble', 0.07447157]]",XF4_DvnNeCQ
+8,"[['television', 0.1997383], ['comic book', 0.11627337], ['stage', 0.11504419], ['monitor', 0.110387616], ['microphone', 0.042317793]]",6LB4JWRnyrM
+9,"[['television', 0.9260313], ['monitor', 0.065728255], ['screen', 0.004811615], ['web site', 0.0009074276], ['home theater', 0.00046613067]]",zC1eBRg2kgo
+10,"[['kimono', 0.21710965], ['pajama', 0.07896177], ['web site', 0.04578222], ['torch', 0.043324433], ['marimba', 0.03125736]]",ZaOvpvw1NwA
+11,"[['television', 0.15708913], ['aircraft carrier', 0.062275022], ['warplane', 0.04808018], ['hair slide', 0.040486105], ['monitor', 0.040224135]]",LCet4yrfp4o
+12,"[['comic book', 0.17289282], ['web site', 0.12853563], ['book jacket', 0.12563656], ['television', 0.08403777], ['bulletproof vest', 0.028413406]]",0S-PpkIaxys
+13,"[['theater curtain', 0.7395177], ['cinema', 0.15104708], ['comic book', 0.022071108], ['stage', 0.011068239], ['home theater', 0.009059385]]",_glJtpX9aAM
+14,"[['brassiere', 0.20973451], ['television', 0.10728283], ['car mirror', 0.06784627], ['perfume', 0.061109226], ['book jacket', 0.047618292]]",qFrwxDGTo2s
+15,"[['monitor', 0.39515844], ['television', 0.38001183], ['screen', 0.055927303], ['web site', 0.027460955], ['balloon', 0.023460137]]",oeCZqrpWjys
+16,"[['television', 0.60161006], ['monitor', 0.20839345], ['home theater', 0.053931657], ['screen', 0.028628275], ['web site', 0.018343415]]",QmGJTtXE2Mo
+17,"[['theater curtain', 0.6249205], ['web site', 0.019516999], ['stage', 0.018412549], ['oscilloscope', 0.012985797], ['green mamba', 0.012090958]]",57wbnmuvmWU
+18,"[['book jacket', 0.15298128], ['web site', 0.14542855], ['theater curtain', 0.019985499], ['balance beam', 0.014750005], ['television', 0.014353186]]",QoEpipVAZUc
+19,"[['fountain', 0.07114028], ['sea slug', 0.040032383], ['kimono', 0.038314164], ['Siamese cat', 0.026332026], ['Chihuahua', 0.020098269]]",ZNkh1nCozQw
+20,"[['book jacket', 0.28261292], ['web site', 0.044769857], ['lab coat', 0.028277775], ['golf ball', 0.02695143], ['microphone', 0.024443688]]",zx0ivLC6wrQ
+21,"[['stage', 0.13846233], ['television', 0.12841426], ['monitor', 0.08644027], ['web site', 0.045105364], ['home theater', 0.03678312]]",l05CSwpXoBA
+22,"[['monitor', 0.16001967], ['television', 0.13499007], ['web site', 0.081056096], ['chain', 0.061668344], ['maillot', 0.03367399]]",tpzAs_WyWD0
+23,"[['television', 0.16483153], ['web site', 0.088406764], ['torch', 0.060354948], ['maillot', 0.052705087], ['balance beam', 0.05044294]]",uyShBKpgYy4
+24,"[['comic book', 0.45753726], ['barbershop', 0.22426802], ['book jacket', 0.1350718], ['cinema', 0.042546906], ['stage', 0.020499375]]",w-sxszFluos
+25,"[['monitor', 0.2006131], ['overskirt', 0.07818914], ['gown', 0.07388313], ['stage', 0.054785755], ['maillot', 0.048943445]]",vD7KE9iIIjI
+26,"[['web site', 0.23808844], ['television', 0.11369429], ['comic book', 0.101317115], ['monitor', 0.040923133], ['scoreboard', 0.032795347]]",BTzQ1eqXAMU
+27,"[['academic gown', 0.2277366], ['bookshop', 0.11038131], ['library', 0.07860735], ['bookcase', 0.062639266], ['pajama', 0.02010211]]",h2qE41pBx50
+28,"[['comic book', 0.24671645], ['web site', 0.21331155], ['book jacket', 0.19529445], ['hair spray', 0.053420223], ['jersey', 0.051171437]]",njXQLFPkvqc
+29,"[['red wine', 0.12887794], ['dial telephone', 0.12668726], ['microphone', 0.109002605], ['Windsor tie', 0.06747741], ['pay-phone', 0.03295602]]",FeDBi87zXRo
+30,"[['book jacket', 0.17574488], ['balance beam', 0.0960645], ['web site', 0.08009343], ['rapeseed', 0.067126416], ['comic book', 0.06238051]]",tTzoOkP8PBA
+31,"[['comic book', 0.21810818], ['web site', 0.101018436], ['book jacket', 0.09997869], ['television', 0.07461615], ['stethoscope', 0.05252448]]",_PLDrwo3pZ8
+32,"[['web site', 0.10332708], ['wig', 0.08167066], ['academic gown', 0.07921282], ['television', 0.038363956], ['mortarboard', 0.03203646]]",hYHAqSm517M
+33,"[['comic book', 0.29673705], ['bobsled', 0.08874211], ['cinema', 0.08705062], ['scoreboard', 0.06486576], ['neck brace', 0.022853183]]",2jI7zt_CqDo
+34,"[['academic gown', 0.46322587], ['stage', 0.283137], ['lab coat', 0.02965976], ['oxygen mask', 0.014418286], ['neck brace', 0.012988752]]",RKWOG-5uTzk
+35,"[['web site', 0.3662822], ['comic book', 0.104289606], ['laptop', 0.023881113], ['toaster', 0.02060236], ['Band Aid', 0.01757872]]",mumi40-Xkx0
+36,"[['web site', 0.5729684], ['brassiere', 0.05161331], ['wig', 0.037998438], ['hoopskirt', 0.030154234], ['maillot', 0.027223786]]",rEdSJbARyNs
+37,"[['scoreboard', 0.104617454], ['comic book', 0.09390269], ['neck brace', 0.08817926], ['bobsled', 0.07747169], ['restaurant', 0.049126662]]",P6-2mlqNO98
+38,"[['cinema', 0.17284831], ['theater curtain', 0.115898944], ['bakery', 0.06404324], ['barbershop', 0.03772093], ['home theater', 0.034110427]]",vBRxUZhHlgw
+39,"[['comic book', 0.18863928], ['book jacket', 0.1349749], ['web site', 0.100249596], ['barbershop', 0.049388956], ['hair spray', 0.035987955]]",AQVzQ0Vw0l8
+40,"[['seashore', 0.6957627], ['web site', 0.095148824], ['monitor', 0.02628434], ['comic book', 0.011670608], ['crane', 0.010155089]]",ka9zaVL28OY
+41,"[['stage', 0.2910688], ['miniskirt', 0.21726304], ['theater curtain', 0.10152481], ['spotlight', 0.041332755], ['wig', 0.021140503]]",AsY8WqAC3OI
+42,"[['television', 0.42579016], ['monitor', 0.25078437], ['stage', 0.114224575], ['home theater', 0.06588716], ['screen', 0.021501208]]",NB3UrvuiKrk
+43,"[['web site', 0.27994362], ['beaker', 0.27853832], ['parking meter', 0.035812948], ['lipstick', 0.03291374], ['perfume', 0.029902851]]",l01b5oaWbR0
+44,"[['theater curtain', 0.98207295], ['stage', 0.0023540836], ['home theater', 0.0015211179], ['cinema', 0.00080389425], ['monitor', 0.0007110284]]",VznBK_Yv6YI
+45,"[['web site', 0.9563494], ['television', 0.004344982], ['monitor', 0.002699449], ['wig', 0.0009385743], ['envelope', 0.0006529172]]",9i_E6Vvav9I
+46,"[['television', 0.49174204], ['monitor', 0.28912127], ['home theater', 0.13277015], ['screen', 0.013987888], ['web site', 0.0096547855]]",Hv8UhEjL2yA
+47,"[['microphone', 0.2037654], ['pick', 0.12049781], ['honeycomb', 0.027365085], ['web site', 0.026576156], ['sax', 0.02442911]]",_-Un6D_Yypw
+48,"[['microphone', 0.882007], ['pick', 0.04715877], ['stage', 0.015869115], ['sax', 0.0040108063], ['web site', 0.0032647317]]",0gWeEk2QjdY
+49,"[['microphone', 0.491405], ['wig', 0.17865337], ['television', 0.071795434], ['web site', 0.017639516], ['syringe', 0.013582814]]",pI3MTa752vA
+50,"[['stage', 0.32394826], ['torch', 0.22046798], ['electric guitar', 0.110031016], ['television', 0.029318722], ['comic book', 0.016345963]]",SFf-FR5E4no
+51,"[['cinema', 0.099263296], ['television', 0.0754027], ['Windsor tie', 0.06941174], ['comic book', 0.061391], ['monitor', 0.06096991]]",goqO2uwA-f8
+52,"[['spotlight', 0.2390765], ['television', 0.16727787], ['projector', 0.09454946], ['monitor', 0.06834423], ['home theater', 0.030894924]]",b-5YrNh2r6c
+53,"[['stage', 0.7005551], ['electric guitar', 0.23830892], ['theater curtain', 0.007499624], ['sax', 0.0066226465], ['microphone', 0.0016658091]]",GhyRzJ64YGM
+54,"[['red wine', 0.98728126], ['wine bottle', 0.011456049], ['corkscrew', 0.00023727118], ['hamper', 4.704405e-05], ['goblet', 4.576028e-05]]",92OWHM7MRDE
+55,"[['harmonica', 0.5608808], ['ocarina', 0.1329258], ['web site', 0.06470176], ['lipstick', 0.028125552], ['face powder', 0.01571166]]",a1UWiDa6t5Q
+56,"[['television', 0.3199035], ['web site', 0.14008266], ['monitor', 0.040795784], ['miniskirt', 0.029860517], ['comic book', 0.025402807]]",JjOLGUBqkmg
+57,"[['electric guitar', 0.43306145], ['stage', 0.34780908], ['microphone', 0.0108496], ['sax', 0.010420833], ['acoustic guitar', 0.0098328395]]",m6wOh7fWkbw
+58,"[['hair spray', 0.80738795], ['perfume', 0.039264884], ['microphone', 0.037032574], ['book jacket', 0.017405443], ['pill bottle', 0.0072130095]]",b6S-cVgx-Kc
+59,"[['red wine', 0.52003455], ['goblet', 0.2780294], ['beer glass', 0.05253427], ['Petri dish', 0.021092819], ['whiskey jug', 0.014580257]]",oEKNQR0H9vk
+60,"[['stage', 0.68359256], ['electric guitar', 0.16124733], ['accordion', 0.0198115], ['spotlight', 0.01215064], ['microphone', 0.010483626]]",tyKZWjpzXtk
+61,"[['web site', 0.20296341], ['comic book', 0.058552098], ['sleeping bag', 0.057472438], ['book jacket', 0.027305786], ['theater curtain', 0.022647526]]",hBCQwmGWtFI
+62,"[['television', 0.5425485], ['monitor', 0.24283713], ['home theater', 0.035372782], ['torch', 0.021991946], ['screen', 0.013792387]]",3ueWbC1xK5s
+63,"[['studio couch', 0.27035815], ['parachute', 0.13793066], ['jinrikisha', 0.060007546], ['gown', 0.057604574], ['bikini', 0.05085917]]",aZla1ttZHaw
+64,"[['comic book', 0.43064174], ['envelope', 0.045589402], ['book jacket', 0.043673974], ['web site', 0.035369396], ['pick', 0.03256489]]",HfTYKgQoAFM
+65,"[['comic book', 0.46475878], ['envelope', 0.04788793], ['web site', 0.037207942], ['book jacket', 0.033402223], ['wallet', 0.030912183]]",2ODhGbtW-L4
+66,"[['steel arch bridge', 0.20019484], ['suspension bridge', 0.087741435], ['viaduct', 0.03979372], ['bannister', 0.03023594], ['mountain bike', 0.026747696]]",O1S6AEGi0nM
+67,"[['book jacket', 0.30588627], ['comic book', 0.085739866], ['web site', 0.046570968], ['candle', 0.016401736], ['lighter', 0.015119553]]",7zu1LKb5pek
+68,"[['jersey', 0.14579238], ['comic book', 0.066662446], ['barracouta', 0.04894775], ['television', 0.034565195], ['tench', 0.02813618]]",MTXM7ER4DJc
+69,"[['suit', 0.23370866], ['Windsor tie', 0.18957338], ['groom', 0.13175614], ['monitor', 0.12797411], ['television', 0.06473474]]",ofYTR24Lrr4
+70,"[['television', 0.7648894], ['screen', 0.047788814], ['monitor', 0.033963908], ['web site', 0.03132064], ['scoreboard', 0.017831381]]",FS376sohiXc
+71,"[['recreational vehicle', 0.39726555], ['oxygen mask', 0.06637338], ['lab coat', 0.06590457], ['screen', 0.040679812], ['stage', 0.038837556]]",XH4Hzva9ldU
+72,"[['web site', 0.11772983], ['neck brace', 0.047753204], ['academic gown', 0.04301455], ['bulletproof vest', 0.041663144], ['television', 0.038567554]]",olw-29TiTwg
+73,"[['basketball', 0.98762774], ['television', 0.0005998651], ['volleyball', 0.0003066464], ['maillot', 0.00025556277], ['whistle', 0.0002142109]]",bIBPK4spPNM
+74,"[['cinema', 0.23319656], ['book jacket', 0.09669595], ['barbershop', 0.059263624], ['balance beam', 0.05357345], ['airship', 0.021407383]]",GE1PX2mL1AI
+75,"[['basketball', 0.12754618], ['unicycle', 0.10036264], ['television', 0.06149951], ['ballplayer', 0.056343455], ['comic book', 0.04156028]]",XhuWWn6RLL0
+76,"[['chain mail', 0.8017961], ['Windsor tie', 0.013526058], ['bulletproof vest', 0.012989523], ['torch', 0.010534314], ['chain', 0.0086552985]]",WXN046XZsrA
+77,"[['television', 0.8561516], ['monitor', 0.064916246], ['screen', 0.059702326], ['web site', 0.009494925], ['home theater', 0.0019062539]]",EfCOPLDA2wI
+78,"[['maillot', 0.15817578], ['jersey', 0.13580339], ['horizontal bar', 0.096432604], ['parallel bars', 0.09193107], ['bulletproof vest', 0.06687461]]",9895kN21huE
+79,"[['ballplayer', 0.19907022], ['balance beam', 0.17527235], ['television', 0.1514219], ['screen', 0.045946218], ['monitor', 0.037839577]]",C2iHsd_778o
+80,"[['balance beam', 0.1215337], ['book jacket', 0.058169372], ['barbell', 0.057206403], ['gong', 0.021430042], ['theater curtain', 0.02044329]]",_sXXdvogvjU
+81,"[['suit', 0.6800831], ['rocking chair', 0.1505792], ['Loafer', 0.07880714], ['television', 0.013928147], ['window shade', 0.011433916]]",9HO7KxO3nGc
+82,"[['gown', 0.04924416], ['oxygen mask', 0.024507314], ['balance beam', 0.023972787], ['monitor', 0.021051344], ['web site', 0.01989198]]",qKTD5hwtPF0
+83,"[['television', 0.192303], ['Windsor tie', 0.043027002], ['sweatshirt', 0.032719504], ['neck brace', 0.03050433], ['web site', 0.029157385]]",NeuxneTGRhI
+84,"[['comic book', 0.93925744], ['book jacket', 0.0039873556], ['jersey', 0.003719736], ['ballplayer', 0.0017015906], ['bulletproof vest', 0.0015776072]]",44pTpI8irp4
+85,"[['Windsor tie', 0.47372726], ['television', 0.14742866], ['suit', 0.09819522], ['monitor', 0.04148391], ['web site', 0.02796552]]",eOTwtMtfEfM
+86,"[['scoreboard', 0.50900406], ['screen', 0.052779242], ['television', 0.028990561], ['balance beam', 0.028453063], ['monitor', 0.018874135]]",7XRmMRAFSQs
+87,"[['television', 0.55294436], ['monitor', 0.10855781], ['microphone', 0.077672236], ['scoreboard', 0.036305763], ['web site', 0.021466238]]",TD1QbG5Xdp0
+88,"[['ping-pong ball', 0.9439751], ['scoreboard', 0.023482176], ['television', 0.012236711], ['monitor', 0.011509246], ['bobsled', 0.0027027265]]",q_IUB2g7NJw
+89,"[['monitor', 0.14769301], ['web site', 0.09956604], ['stage', 0.08021329], ['television', 0.050497837], ['cloak', 0.02738304]]",3aC1sy_SZeM
+90,"[['television', 0.29637957], ['stage', 0.14047885], ['microphone', 0.11274201], ['home theater', 0.046870917], ['monitor', 0.046588827]]",0lK0TA8COBw
+91,"[['television', 0.598506], ['monitor', 0.08857203], ['car mirror', 0.07025806], ['toaster', 0.028667843], ['home theater', 0.022751596]]",GFv-WNitX0Q
+92,"[['stage', 0.63755685], ['microphone', 0.23260812], ['television', 0.014674812], ['theater curtain', 0.0070112087], ['harmonica', 0.0055724815]]",k4oqsCXRku8
+93,"[['television', 0.5504819], ['stage', 0.051828697], ['monitor', 0.04076401], ['web site', 0.027786633], ['home theater', 0.010297005]]",7OA1J3k8Wyk
+94,"[['bolo tie', 0.25914884], ['Windsor tie', 0.22575226], ['suit', 0.07290781], ['comic book', 0.031263907], ['bow tie', 0.022163333]]",tg003BeZk5U
+95,"[['home theater', 0.5090728], ['projector', 0.2670121], ['television', 0.07311322], ['cinema', 0.05462634], ['monitor', 0.010713124]]",MbRCV7GrXHM
+96,"[['comic book', 0.8603178], ['book jacket', 0.10730037], ['web site', 0.0027416886], ['cassette', 0.00085262244], ['bookshop', 0.00064514484]]",-ZdDPPqCL4Q
+97,"[['television', 0.44870913], ['comic book', 0.07849192], ['bow', 0.035117257], ['book jacket', 0.030386886], ['cuirass', 0.028734202]]",H0ipgUHWgkU
+98,"[['comic book', 0.19432625], ['bathing cap', 0.08928396], ['web site', 0.045185007], ['oxygen mask', 0.03022917], ['black grouse', 0.019190097]]",5qek9Su7V4U
+99,"[['comic book', 0.38682222], ['coffee mug', 0.3547044], ['book jacket', 0.035224915], ['candle', 0.019679252], ['web site', 0.010255077]]",wUUl33dEr_g
+100,"[['television', 0.27461523], ['comic book', 0.22744893], ['home theater', 0.09402725], ['monitor', 0.066733666], ['theater curtain', 0.042781048]]",4GMcM90UKDo
+101,"[['chain mail', 0.7757807], ['chain', 0.0150705725], ['television', 0.010958832], ['bow', 0.009353913], ['cuirass', 0.007835768]]",b4Szra6Wujo
+102,"[['television', 0.5561743], ['web site', 0.2445768], ['home theater', 0.15763529], ['monitor', 0.025713561], ['screen', 0.0056435443]]",NkGeiISA3Rc
+103,"[['theater curtain', 0.5123711], ['stage', 0.065471955], ['home theater', 0.047500536], ['cinema', 0.02329465], ['television', 0.01952311]]",LqdXPg4ANWE
+104,"[['jersey', 0.28792703], ['prison', 0.04384162], ['monitor', 0.03616818], ['laptop', 0.035747238], ['sweatshirt', 0.03054729]]",_trulM9Ht4E
+105,"[['television', 0.39373925], ['panpipe', 0.073911466], ['organ', 0.054525893], ['marimba', 0.05311238], ['monitor', 0.031291947]]",x8_ixNIjgYs
+106,"[['marimba', 0.08780472], ['cinema', 0.080435716], ['racket', 0.06012565], ['Indian cobra', 0.048715476], ['television', 0.044708822]]",50Z5msbmEmg
+107,"[['limousine', 0.8793362], ['seat belt', 0.07065837], ['minibus', 0.031601187], ['minivan', 0.005968119], ['cinema', 0.0009949954]]",dFxii8NMvHg
+108,"[['analog clock', 0.9535129], ['wall clock', 0.009315145], ['web site', 0.0077939765], ['book jacket', 0.004718899], ['magnetic compass', 0.003345597]]",JtPNH6VBBWg
+109,"[['book jacket', 0.66732323], ['comic book', 0.15295231], ['vestment', 0.03356944], ['vase', 0.016002512], ['jersey', 0.011082069]]",9fTK_EJefKk
+110,"[['candle', 0.93621635], ['monitor', 0.022799492], ['scuba diver', 0.001817753], ['quill', 0.0012199418], ['backpack', 0.0011590512]]",Ydzctj7TMR4
+111,"[['web site', 0.16537103], ['cash machine', 0.12105117], ['television', 0.062273428], ['cab', 0.039864756], ['home theater', 0.030216463]]",tdCeRPUbjI8
+112,"[['comic book', 0.79355067], ['book jacket', 0.053393126], ['web site', 0.017723031], ['space shuttle', 0.0058917906], ['volcano', 0.0054230657]]",7Go1IxRAmVk
+113,"[['home theater', 0.53404117], ['stove', 0.0855643], ['cinema', 0.036467407], ['volcano', 0.021582091], ['entertainment center', 0.013206556]]",E56liqiIvno
+114,"[['comic book', 0.6879775], ['bulletproof vest', 0.054836124], ['web site', 0.031746976], ['book jacket', 0.025018124], ['neck brace', 0.016393345]]",vIcsC2roIkU
+115,"[['bow', 0.39555493], ['comic book', 0.10839775], ['television', 0.072691895], ['book jacket', 0.053909916], ['monitor', 0.032755416]]",9u4oyarcc4I
+116,"[['bulletproof vest', 0.19130015], ['scuba diver', 0.1889969], ['assault rifle', 0.17509535], ['oxygen mask', 0.09997458], ['television', 0.045421652]]",anR1x6U8lfY
+117,"[['seashore', 0.5444544], ['crane', 0.19258222], ['lakeside', 0.079886585], ['web site', 0.059103057], ['digital clock', 0.03784136]]",D3tN1BxjsgU
+118,"[['hair spray', 0.28774574], ['web site', 0.14503454], ['comic book', 0.06519612], ['neck brace', 0.036756657], ['television', 0.018440584]]",EtjORza4ii0
+119,"[['volcano', 0.5664535], ['alp', 0.14176716], ['cliff', 0.06500243], ['valley', 0.058555797], ['common newt', 0.010191282]]",TD0CzUi4MD8
+120,"[['book jacket', 0.34055182], ['television', 0.12861432], ['rifle', 0.10615985], ['electric guitar', 0.053397126], ['web site', 0.039649826]]",btmN-bWwv0A
+121,"[['nematode', 0.4158237], ['volcano', 0.07993631], ['parachute', 0.04624173], ['flatworm', 0.031222397], ['common newt', 0.030879857]]",R2t8pHCbVFc
+122,"[['television', 0.30454302], ['web site', 0.20927994], ['car mirror', 0.063725434], ['seat belt', 0.03377178], ['hair slide', 0.030970722]]",dbGD_d2cGEk
+123,"[['neck brace', 0.08289267], ['comic book', 0.07002211], ['web site', 0.051231224], ['book jacket', 0.050185062], ['cloak', 0.04058653]]",ipexsV0j1gs
+124,"[['academic gown', 0.40254417], ['mortarboard', 0.26708606], ['abaya', 0.021797843], ['suit', 0.0073781144], ['cloak', 0.0069672684]]",-jmyxiUy78Y
+125,"[['web site', 0.14150345], ['wig', 0.08205101], ['fountain', 0.0442552], ['cloak', 0.02443161], ['cinema', 0.020268628]]",UHJj2dk77-g
+126,"[['kimono', 0.15379167], ['comic book', 0.14814684], ['book jacket', 0.08068884], ['web site', 0.06676405], ['cloak', 0.052125037]]",kMkCBqH6-S4
+127,"[['television', 0.17807685], ['comic book', 0.11279318], ['monitor', 0.09707494], ['web site', 0.06932478], ['punching bag', 0.049304597]]",YhahNd0trnE
+128,"[['television', 0.6861545], ['screen', 0.12350056], ['monitor', 0.10320855], ['comic book', 0.013902555], ['web site', 0.00529317]]",yJX2c_Ut-gQ
+129,"[['comic book', 0.96640176], ['television', 0.00813315], ['web site', 0.0011590574], ['freight car', 0.0010403891], ['pencil box', 0.0008532349]]",wgrc3Ewwx10
+130,"[['Band Aid', 0.18755722], ['bulletproof vest', 0.054625507], ['comic book', 0.052011803], ['web site', 0.050631296], ['plunger', 0.04116947]]",QlLlqytY3Sc
+131,"[['comic book', 0.16539446], ['chain mail', 0.1267442], ['web site', 0.062077843], ['television', 0.052785836], ['home theater', 0.0387278]]",FWzCy5-isjk
+132,"[['scuba diver', 0.5668], ['coral reef', 0.0647951], ['wreck', 0.01143731], ['fountain', 0.011354366], ['oxygen mask', 0.010062797]]",q4M2jFf9z9Y
+133,"[['chain mail', 0.380597], ['comic book', 0.19880123], ['breastplate', 0.045542393], ['mask', 0.033324547], ['cuirass', 0.025969524]]",PWTS-uXGuy8
+134,"[['comic book', 0.35314602], ['book jacket', 0.14978096], ['web site', 0.0307695], ['prison', 0.018178457], ['chimpanzee', 0.015116938]]",TkWsRQXMgII
+135,"[['cuirass', 0.45827207], ['breastplate', 0.35058782], ['mask', 0.032409694], ['vestment', 0.02385576], ['bubble', 0.0090056565]]",4qqC79LSJoI
+136,"[['vestment', 0.22067077], ['television', 0.042570934], ['plunger', 0.02931569], ['web site', 0.029104065], ['comic book', 0.026900358]]",uFbeaM0hp_c
+137,"[['theater curtain', 0.27645108], ['television', 0.2582334], ['web site', 0.06063426], ['torch', 0.04538253], ['vestment', 0.020329824]]",JflRPkSAH8A
+138,"[['gazelle', 0.10379608], ['gar', 0.0635208], ['bow', 0.05056454], ['hartebeest', 0.044399146], ['barracouta', 0.035126608]]",hHWRikDNkh4
+139,"[['electric guitar', 0.160806], ['steel drum', 0.05751009], ['Indian cobra', 0.046519484], ['stage', 0.037093766], ['jigsaw puzzle', 0.032590367]]",N-yhtTs8f7w
+140,"[['television', 0.3959229], ['comic book', 0.0859888], ['kimono', 0.055188246], ['home theater', 0.03691576], ['web site', 0.03608266]]",LiSm4G01IEY
+141,"[['brassiere', 0.39844444], ['television', 0.10799662], ['comic book', 0.033969168], ['Arabian camel', 0.028353676], ['hip', 0.020400664]]",kEBeAfRoQ7E
+142,"[['chain mail', 0.117070384], ['television', 0.076097436], ['cuirass', 0.039921783], ['comic book', 0.03459292], ['panpipe', 0.034418464]]",EpSfA6kmias
+143,"[['television', 0.20007375], ['comic book', 0.14215557], ['home theater', 0.08349247], ['book jacket', 0.0709976], ['web site', 0.043852188]]",bu1dlRr0b8c
+144,"[['home theater', 0.1111239], ['altar', 0.09133848], ['comic book', 0.08524058], ['mask', 0.07500957], ['theater curtain', 0.0695509]]",uG2bR8B8UOc
+145,"[['oxygen mask', 0.19815446], ['home theater', 0.14464189], ['scuba diver', 0.12923414], ['monitor', 0.10181005], ['gasmask', 0.07865561]]",vKu-pwM2D6U
+146,"[['chain mail', 0.19253814], ['vestment', 0.12475253], ['mask', 0.10195845], ['chain', 0.020442002], ['book jacket', 0.017020395]]",pCb_0RRI9-k
+147,"[['comic book', 0.4179371], ['book jacket', 0.068890244], ['cuirass', 0.038157616], ['platypus', 0.031944875], ['hatchet', 0.025859576]]",HR9TzSFZ_-E
+148,"[['comic book', 0.6253987], ['Windsor tie', 0.04067927], ['vestment', 0.027586449], ['bow tie', 0.02683748], ['microphone', 0.026003925]]",vlX1AyaxlCc
+149,"[['plunger', 0.12077038], ['television', 0.11337134], ['neck brace', 0.0407589], ['groom', 0.029058566], ['bubble', 0.022595888]]",h6jPsaYWr1c
+150,"[['panpipe', 0.14246656], ['book jacket', 0.1163559], ['comic book', 0.11455656], ['web site', 0.024838682], ['stretcher', 0.023805374]]",Pobwy_es2uc
+151,"[['chain saw', 0.36653262], ['tractor', 0.06444505], ['ski', 0.06060101], ['torch', 0.05338806], ['swing', 0.04467196]]",hxS8_IVB4Dg
+152,"[['barbershop', 0.37369606], ['comic book', 0.14682846], ['television', 0.082428984], ['book jacket', 0.069229186], ['monitor', 0.03317432]]",rOTRnmeiFr4
+153,"[['grand piano', 0.9900213], ['upright', 0.005313944], ['oboe', 0.000788585], ['bassoon', 0.0006951571], ['sax', 0.00029432413]]",RTdXd75ThJo
+154,"[['grand piano', 0.9854255], ['bassoon', 0.0030448043], ['upright', 0.002987149], ['oboe', 0.002325494], ['sax', 0.0010959053]]",5f-d_BqCWPA
+155,"[['microphone', 0.9775058], ['comic book', 0.00883988], ['book jacket', 0.0017978027], ['stage', 0.0016415891], ['sax', 0.00061600824]]",fGCMcu2iei0
+156,"[['grand piano', 0.99146676], ['bassoon', 0.0013326384], ['oboe', 0.00073475606], ['upright', 0.0007300741], ['sax', 0.000623458]]",gpiuqEGhNTM
+157,"[['grand piano', 0.99323165], ['oboe', 0.001446788], ['bassoon', 0.0008349945], ['upright', 0.00073407457], ['sax', 0.0005504453]]",HoSBUmIZWto
+158,"[['web site', 0.25711134], ['monitor', 0.17712535], ['television', 0.15295267], ['projector', 0.063673764], ['desk', 0.05533459]]",eoUY3vvVtww
+159,"[['vending machine', 0.44064975], ['television', 0.2690585], ['monitor', 0.050521754], ['barbershop', 0.017853074], ['gas pump', 0.008694958]]",ZkYfiOkkAFk
+160,"[['tench', 0.10098807], ['cowboy hat', 0.076546215], ['cougar', 0.063359745], ['kelpie', 0.059121277], ['television', 0.05121625]]",kQpU6hAHxx8
+161,"[['badger', 0.16398513], ['television', 0.12685893], ['Brittany spaniel', 0.12354102], ['three-toed sloth', 0.0487276], ['meerkat', 0.037542637]]",T-wpaNZIDCo
+162,"[['television', 0.8106186], ['monitor', 0.15549515], ['screen', 0.02091475], ['web site', 0.0021320041], ['home theater', 0.0018609957]]",lWt8-mpBLK8
+163,"[['web site', 0.09824659], ['book jacket', 0.053426716], ['perfume', 0.029444797], ['tobacco shop', 0.024309274], ['dishwasher', 0.02297973]]",hp6Oc0Z7XB8
+164,"[['comic book', 0.25653213], ['toyshop', 0.10768743], ['web site', 0.0653266], ['toy poodle', 0.061099246], ['television', 0.058474593]]",mBIF64Cf99s
+165,"[['monitor', 0.8705775], ['television', 0.07870952], ['home theater', 0.020733902], ['comic book', 0.00440453], ['screen', 0.0026073786]]",F8M9ZDu00NY
+166,"[['comic book', 0.43489143], ['cinema', 0.09402585], ['ski mask', 0.065082766], ['mask', 0.033096153], ['book jacket', 0.018516425]]",y9hlS8_tFQA
+167,"[['harmonica', 0.2099255], ['street sign', 0.083064444], ['microphone', 0.0538292], ['turnstile', 0.045617223], ['stage', 0.035608903]]",5EOmNXjvBNQ
+168,"[['comic book', 0.9227072], ['book jacket', 0.01697433], ['web site', 0.001374251], ['television', 0.0013289494], ['electric guitar', 0.0012747609]]",BK3cq0gamwU
+169,"[['comic book', 0.9226317], ['capuchin', 0.010038236], ['television', 0.0041440926], ['titi', 0.0032515323], ['cinema', 0.0027872822]]",RGW_5bqrYIo
+170,"[['comic book', 0.21772128], ['book jacket', 0.16103643], ['slot', 0.07184813], ['cinema', 0.031550918], ['theater curtain', 0.015789222]]",s9cHQOzb-pg
+171,"[['parachute', 0.19054195], ['seashore', 0.167614], ['snorkel', 0.1446059], ['television', 0.1401672], ['web site', 0.030075148]]",dn74yo3UY9w
+172,"[['mask', 0.2106008], ['breastplate', 0.12027798], ['shield', 0.11379673], ['cuirass', 0.0719923], ['chain mail', 0.03716286]]",g_ZiPSdC_Ro
+173,"[['television', 0.49253199], ['monitor', 0.29531193], ['home theater', 0.1335681], ['screen', 0.024072178], ['web site', 0.013259706]]",3GLPjp_A1tE
+174,"[['car mirror', 0.99083215], ['television', 0.00018568856], ['seat belt', 8.618552e-05], ['monitor', 8.1653474e-05], ['horizontal bar', 7.926271e-05]]",ooHII67__Sg
+175,"[['web site', 0.521847], ['quill', 0.0690272], ['television', 0.021265393], ['sax', 0.014512029], ['cornet', 0.013388093]]",ZUhm6gYXmq8
+176,"[['harmonica', 0.84602803], ['stage', 0.02481359], ['cellular telephone', 0.021677148], ['ocarina', 0.01902476], ['microphone', 0.011502007]]",FXkhh-Lc54I
+177,"[['web site', 0.7726199], ['jersey', 0.02484042], ['envelope', 0.012765023], ['dumbbell', 0.009934586], ['bulletproof vest', 0.0084189605]]",Kd9ikr76Jt8
+178,"[['book jacket', 0.45575953], ['web site', 0.122921936], ['television', 0.055073768], ['bulletproof vest', 0.041677855], ['academic gown', 0.025209991]]",uIG0SG5O77w
+179,"[['brassiere', 0.15354761], ['television', 0.042989507], ['mask', 0.042168953], ['oxygen mask', 0.027010141], ['horizontal bar', 0.021939067]]",Yo219aTlJc0
+180,"[['sunglasses', 0.5117377], ['sunglass', 0.36707997], ['chain', 0.016718455], ['suit', 0.009645827], ['microphone', 0.0083164]]",j7_3NXLbuCw
+181,"[['web site', 0.38789567], ['television', 0.14668], ['mask', 0.049930155], ['comic book', 0.045367613], ['monitor', 0.041891947]]",EeO-rO2C1zg
+182,"[['monitor', 0.60752743], ['screen', 0.18992314], ['web site', 0.04108514], ['television', 0.036775608], ['scoreboard', 0.033864383]]",f5UYt9IIp0w
+183,"[['web site', 0.2503217], ['alp', 0.22209792], ['book jacket', 0.0969718], ['barn', 0.05884215], ['analog clock', 0.018682545]]",hjQfYEjvJeU
+184,"[['television', 0.8226768], ['monitor', 0.033021707], ['screen', 0.019270504], ['punching bag', 0.014731274], ['home theater', 0.011011438]]",GlyUQ57ymUA
+185,"[['television', 0.38404053], ['punching bag', 0.2368712], ['comic book', 0.09586654], ['monitor', 0.025466502], ['screen', 0.016019257]]",r_uO1OmccGg
+186,"[['Band Aid', 0.5809863], ['comic book', 0.15759037], ['hair spray', 0.018718364], ['neck brace', 0.014330033], ['web site', 0.010950577]]",5z32s0xpTDo
+187,"[['microphone', 0.30940717], ['binoculars', 0.19119528], ['comic book', 0.13252869], ['book jacket', 0.0881907], ['web site', 0.03248322]]",G3tJ29G8aXk
+188,"[['comic book', 0.82376516], ['slot', 0.020559942], ['tobacco shop', 0.010230465], ['cowboy hat', 0.0045579476], ['web site', 0.004537064]]",RmI5oBOdEBE
+189,"[['cinema', 0.19653863], ['television', 0.09894074], ['limousine', 0.088369995], ['wig', 0.049868736], ['web site', 0.025085106]]",cfc5rzWSd4o
+190,"[['Windsor tie', 0.48909944], ['suit', 0.21267107], ['television', 0.05831249], ['web site', 0.032648414], ['monitor', 0.012281842]]",hcbtHf0bIpc
+191,"[['stage', 0.6893382], ['microphone', 0.08370329], ['television', 0.068453714], ['monitor', 0.017893529], ['web site', 0.01045075]]",b3bmHr0gynE
+192,"[['monitor', 0.25612244], ['television', 0.12644838], ['pajama', 0.05296622], ['cinema', 0.039169468], ['home theater', 0.0354042]]",cc4mjNt4ddQ
+193,"[['cinema', 0.26437593], ['home theater', 0.2519346], ['monitor', 0.14207222], ['web site', 0.038545933], ['restaurant', 0.033173755]]",poc34R4Gvy4
+194,"[['television', 0.19677322], ['web site', 0.107789405], ['tub', 0.10077806], ['monitor', 0.073070325], ['neck brace', 0.02606568]]",8RuZNulXWX0
+195,"[['hair spray', 0.12682888], ['prison', 0.09576606], ['television', 0.04348687], ['dumbbell', 0.039483726], ['torch', 0.039021026]]",DzUpdQppsvE
+196,"[['comic book', 0.37259522], ['book jacket', 0.18201858], ['television', 0.07469189], ['swimming trunks', 0.05619365], ['web site', 0.040043604]]",LLkMdkoALbg
+197,"[['digital clock', 0.40409744], ['oscilloscope', 0.35971156], ['web site', 0.012070548], ['monitor', 0.0056127557], ['digital watch', 0.004425104]]",SDea7laHD4E
+198,"[['television', 0.6352539], ['web site', 0.12888715], ['monitor', 0.02559916], ['screen', 0.017049909], ['torch', 0.01233614]]",2Z84ahpw-3Y
+199,"[['volleyball', 0.6416788], ['television', 0.08372174], ['swimming trunks', 0.0269634], ['dumbbell', 0.025062244], ['balance beam', 0.015021904]]",pk71BCjxEZ0
+200,"[['cuirass', 0.39820102], ['breastplate', 0.27918828], ['comic book', 0.058766026], ['television', 0.0133567415], ['web site', 0.011422149]]",fwpTxbokpFk
+201,"[['abaya', 0.33316705], ['web site', 0.17916812], ['cloak', 0.06633458], ['stole', 0.049752407], ['syringe', 0.014035166]]",wRQEfN8PGYI
+202,"[['book jacket', 0.26884982], ['comic book', 0.1892671], ['web site', 0.12189728], ['prison', 0.014058122], ['television', 0.01371294]]",xB19MPfHfms
+203,"[['digital clock', 0.9962852], ['scoreboard', 0.001484464], ['digital watch', 0.00019768196], ['analog clock', 0.00019057523], ['slot', 6.688639e-05]]",gvsQ09wM-bU
+204,"[['television', 0.31086695], ['screen', 0.1713557], ['monitor', 0.046805535], ['gown', 0.03876663], ['web site', 0.03505693]]",BXIwD1-hEkg
+205,"[['television', 0.7919271], ['monitor', 0.037888847], ['screen', 0.025187882], ['home theater', 0.024720844], ['web site', 0.010257894]]",vtkBKRwSxUY
+206,"[['web site', 0.1654375], ['fur coat', 0.10779577], ['bow tie', 0.04659786], ['groom', 0.04492254], ['brass', 0.030717043]]",QCQR7eyaiJM
+207,"[['web site', 0.12743914], ['screen', 0.10644542], ['perfume', 0.063701436], ['packet', 0.041219916], ['monitor', 0.03513004]]",VT_hLby9uSY
+208,"[['book jacket', 0.6305113], ['perfume', 0.04665565], ['packet', 0.020394616], ['web site', 0.017168673], ['sax', 0.0155496085]]",j83md01wOO8
+209,"[['digital clock', 0.7846395], ['digital watch', 0.08846923], ['stopwatch', 0.03991867], ['cellular telephone', 0.014835503], ['radio', 0.008265896]]",VvjlJLM6D8U
+210,"[['web site', 0.28974223], ['television', 0.08895339], ['screen', 0.060363766], ['monitor', 0.035597596], ['perfume', 0.03187295]]",DGYZBnsS4Zs
+211,"[['trailer truck', 0.2743999], ['garbage truck', 0.1555919], ['television', 0.1449179], ['monitor', 0.036001984], ['tow truck', 0.02745394]]",nLm_wdXA3os
+212,"[['microphone', 0.95193905], ['stage', 0.015486841], ['theater curtain', 0.01188968], ['hand blower', 0.0022287709], ['maraca', 0.00092554546]]",KCmmtDMjG6I
+213,"[['comic book', 0.88533336], ['book jacket', 0.049712617], ['cassette', 0.010503071], ['home theater', 0.0046627107], ['electric guitar', 0.0030793862]]",q24_bDoBdUI
+214,"[['space shuttle', 0.16623016], ['radio telescope', 0.101931304], ['monitor', 0.08428611], ['drilling platform', 0.06588634], ['steel arch bridge', 0.053481456]]",nL5nKxaMAI4
+215,"[['comic book', 0.1902577], ['web site', 0.10608049], ['volcano', 0.08320387], ['fire screen', 0.0806112], ['book jacket', 0.053070623]]",HU05GVeGYQM
+216,"[['comic book', 0.32114506], ['book jacket', 0.29262558], ['cassette', 0.03504075], ['theater curtain', 0.03395011], ['cinema', 0.01653869]]",uyPrPAEq-bk
+217,"[['comic book', 0.49708825], ['television', 0.13207111], ['web site', 0.1310572], ['home theater', 0.09830152], ['monitor', 0.020812469]]",-zCakk8qTYQ
+218,"[['nematode', 0.15316282], ['cloak', 0.031443186], ['knot', 0.027688645], ['chocolate sauce', 0.023724573], ['coral reef', 0.01957101]]",-aOyAvbj2Fg
+219,"[['stage', 0.192358], ['television', 0.12557375], ['microphone', 0.11063273], ['spotlight', 0.097033046], ['monitor', 0.08422581]]",P7vg7ir8jyc
+220,"[['television', 0.12312032], ['car mirror', 0.09582299], ['barbershop', 0.0713434], ['seat belt', 0.05130747], ['bassoon', 0.040553875]]",Wxmdr9e79pQ
+221,"[['microphone', 0.70070666], ['window shade', 0.058356766], ['stage', 0.03674452], ['electric guitar', 0.025750993], ['harmonica', 0.023708532]]",hlDPWmwO7SU
+222,"[['theater curtain', 0.830242], ['stage', 0.055405993], ['microphone', 0.042681713], ['harmonica', 0.00958682], ['sax', 0.0027119154]]",FRLRBpd3AW8
+223,"[['academic gown', 0.31312868], ['web site', 0.17280804], ['brassiere', 0.042914543], ['window screen', 0.019931734], ['screen', 0.018513069]]",HUM3s4bYTT0
+224,"[['envelope', 0.3158312], ['handkerchief', 0.111369476], ['bow tie', 0.06556049], ['suit', 0.065268844], ['Windsor tie', 0.06305462]]",2yoBbTqnCPA
+225,"[['television', 0.2485554], ['web site', 0.19880828], ['perfume', 0.079202786], ['screen', 0.06866124], ['monitor', 0.059007335]]",pB2UdWyzU7o
+226,"[['television', 0.51883197], ['home theater', 0.15889926], ['web site', 0.05207409], ['monitor', 0.04961047], ['projector', 0.042388763]]",YPY5YwveyVQ
+227,"[['digital clock', 0.6340553], ['digital watch', 0.02769754], ['remote control', 0.02324818], ['odometer', 0.017044067], ['rubber eraser', 0.01590237]]",-dADdmUl8qE
+228,"[['balance beam', 0.19161323], ['comic book', 0.11664568], ['television', 0.11523275], ['pole', 0.09397676], ['web site', 0.08256517]]",5w_XWFajGvI
+229,"[['comic book', 0.14257112], ['book jacket', 0.12420274], ['television', 0.07896964], ['web site', 0.032487974], ['electric ray', 0.013765102]]",nnLtBUPxIx8
+230,"[['alp', 0.6390937], ['lakeside', 0.0732467], ['television', 0.058923397], ['valley', 0.032709375], ['volcano', 0.023270162]]",2SeVgStQ5T0
+231,"[['digital clock', 0.4128486], ['scoreboard', 0.37073883], ['odometer', 0.06383518], ['barbershop', 0.034315675], ['book jacket', 0.020558735]]",WsmxjBAWZ0U
+232,"[['jersey', 0.3148981], ['television', 0.03173311], ['maillot', 0.02566714], ['alp', 0.024149187], ['academic gown', 0.022548005]]",Dik5RqAv1OA
+233,"[['web site', 0.5105677], ['television', 0.26838115], ['cellular telephone', 0.056963507], ['monitor', 0.035256173], ['hand-held computer', 0.027789187]]",ixElcxn6PlQ
+234,"[['rapeseed', 0.52177626], ['book jacket', 0.023947567], ['jersey', 0.019195138], ['volleyball', 0.017579416], ['scoreboard', 0.017367719]]",qx_p0CfsRdc
+235,"[['jersey', 0.6339492], ['sunglass', 0.25097063], ['sunglasses', 0.045032397], ['maillot', 0.009226304], ['sweatshirt', 0.006814914]]",9z1nTwP2n0w
+236,"[['monitor', 0.12470614], ['desk', 0.085336916], ['comic book', 0.08284937], ['jean', 0.051480178], ['barbell', 0.03455896]]",viyeS0_J-rQ
+237,"[['television', 0.4942426], ['monitor', 0.11211061], ['Band Aid', 0.0931583], ['torch', 0.06171296], ['web site', 0.025007207]]",yO-hXXhYVkc
+238,"[['television', 0.37213853], ['monitor', 0.31007698], ['torch', 0.067768335], ['web site', 0.024930645], ['bobsled', 0.024098665]]",aDTUH8VkhVE
+239,"[['monitor', 0.5571931], ['television', 0.3444287], ['web site', 0.03148878], ['iPod', 0.0070439796], ['bobsled', 0.006501562]]",MfePCtYUy1g
+240,"[['television', 0.5652719], ['monitor', 0.23183362], ['web site', 0.023031805], ['broccoli', 0.017133413], ['torch', 0.014670805]]",1jTy2VMqaM4
+241,"[['jersey', 0.2542091], ['torch', 0.038679633], ['vestment', 0.037507605], ['gong', 0.033035748], ['paddle', 0.019216994]]",9S9ydLeG-Lw
+242,"[['volleyball', 0.19644094], ['basketball', 0.08509166], ['horizontal bar', 0.07439263], ['barbell', 0.07115858], ['dumbbell', 0.026699904]]",BO4SazYs8Jg
+243,"[['bobsled', 0.20177406], ['racket', 0.06529784], ['television', 0.054728925], ['paddle', 0.04528226], ['canoe', 0.041632093]]",81XSlh_UKJg
+244,"[['ping-pong ball', 0.7814145], ['television', 0.09924845], ['tennis ball', 0.020747365], ['monitor', 0.015522693], ['horizontal bar', 0.011195935]]",vNgbK85d0ZM
+245,"[['stage', 0.17972802], ['television', 0.099637866], ['tennis ball', 0.041694067], ['racket', 0.03615796], ['torch', 0.035595804]]",i9xPYpXf7jM
+246,"[['sweatshirt', 0.33469078], ['television', 0.21462967], ['web site', 0.040648047], ['bulletproof vest', 0.039091866], ['cloak', 0.03300631]]",WHARvXG9768
+247,"[['ping-pong ball', 0.2831909], ['television', 0.15238784], ['web site', 0.047258843], ['monitor', 0.02906525], ['torch', 0.024090815]]",vKMcx6tQ01M
+248,"[['web site', 0.24936047], ['television', 0.09192735], ['monitor', 0.080911614], ['theater curtain', 0.05740119], ['comic book', 0.04542117]]",fnB783uNjN0
+249,"[['television', 0.3231751], ['monitor', 0.30165863], ['screen', 0.2525597], ['desktop computer', 0.019192958], ['home theater', 0.0188912]]",vocaRkjKiio
+250,"[['monitor', 0.37539023], ['stage', 0.32605073], ['theater curtain', 0.062391266], ['television', 0.04067676], ['home theater', 0.037338503]]",4AXTB-iShio
+251,"[['stage', 0.82541513], ['home theater', 0.011305577], ['monitor', 0.010816573], ['wig', 0.008347308], ['television', 0.008211835]]",RMK0VPP3x60
+252,"[['stage', 0.2494301], ['fountain', 0.24630913], ['steel arch bridge', 0.19584575], ['spotlight', 0.07720568], ['theater curtain', 0.011650886]]",Q8R1YipHUlQ
+253,"[['lipstick', 0.78549933], ['face powder', 0.04068451], ['wig', 0.03130933], ['television', 0.020947395], ['web site', 0.016485544]]",0B-XjjdNEkw
+254,"[['monitor', 0.22178519], ['lighter', 0.059427775], ['web site', 0.055940837], ['buckle', 0.03099848], ['cinema', 0.029321216]]",hhVniiafqbc
+255,"[['scoreboard', 0.42878565], ['television', 0.106681846], ['monitor', 0.08165841], ['tow truck', 0.019012997], ['web site', 0.018266978]]",yViIqDwa4pQ
+256,"[['television', 0.3626509], ['monitor', 0.34275195], ['web site', 0.10491954], ['comic book', 0.07727688], ['book jacket', 0.01165368]]",OY53HOVpYcI
+257,"[['stage', 0.30959195], ['maze', 0.24919567], ['theater curtain', 0.04208276], ['bannister', 0.018287566], ['limousine', 0.012718018]]",2vUgpBqm3dA
+258,"[['television', 0.92907584], ['stage', 0.015246296], ['web site', 0.0032179637], ['Loafer', 0.0032107984], ['monitor', 0.0029776732]]",8dmlXBBC6J8
+259,"[['slot', 0.19459237], ['monitor', 0.15316783], ['web site', 0.082394876], ['scoreboard', 0.07862111], ['television', 0.03877275]]",NTjmX1JPoSA
+260,"[['web site', 0.38128567], ['monitor', 0.27636093], ['television', 0.08958629], ['stage', 0.034294836], ['screen', 0.031422984]]",DquQeJB2ECY
+261,"[['monitor', 0.34905827], ['television', 0.1336725], ['stage', 0.09046537], ['home theater', 0.06564537], ['theater curtain', 0.052320477]]",_2TTzwlpYl4
+262,"[['web site', 0.5134848], ['monitor', 0.2726972], ['television', 0.09394749], ['screen', 0.06294399], ['notebook', 0.008108552]]",0aomcisD48I
+263,"[['bonnet', 0.36258855], ['abaya', 0.21912843], ['groom', 0.077250846], ['web site', 0.038386274], ['gown', 0.01804549]]",XN2jC6rrfvU
+264,"[['monitor', 0.43087062], ['screen', 0.31379887], ['television', 0.12800953], ['web site', 0.054787304], ['hand-held computer', 0.014514637]]",mi26FVqx87g
+265,"[['slot', 0.25291142], ['joystick', 0.19509375], ['iPod', 0.14581178], ['Polaroid camera', 0.0483748], ['comic book', 0.029578436]]",5L2CIrvAIJ4
+266,"[['grand piano', 0.6309627], ['upright', 0.029832281], ['Model T', 0.017185496], ['sax', 0.015904404], ['television', 0.015442313]]",MR-STh8jECU
+267,"[['monitor', 0.8558448], ['screen', 0.052029278], ['desktop computer', 0.051749535], ['television', 0.023800777], ['home theater', 0.0016760518]]",IJrKlSkxRHA
+268,"[['television', 0.25797907], ['home theater', 0.21669388], ['coral reef', 0.1527955], ['monitor', 0.11163331], ['screen', 0.0183413]]",0kFVt5vvq54
+269,"[['book jacket', 0.9311383], ['web site', 0.013251969], ['comic book', 0.005962743], ['envelope', 0.0042750263], ['bow tie', 0.0031072604]]",0pDGZtkpAPY
+270,"[['desktop computer', 0.28158078], ['desk', 0.22524], ['monitor', 0.08014451], ['web site', 0.069334954], ['television', 0.048857752]]",-YTRogx-0-o
+271,"[['web site', 0.6028362], ['sax', 0.07717089], ['television', 0.06261746], ['suit', 0.021217808], ['grand piano', 0.017049622]]",S5Cw-5DuNbg
+272,"[['microphone', 0.38192168], ['theater curtain', 0.07987031], ['electric guitar', 0.076718844], ['stage', 0.06413396], ['accordion', 0.045616213]]",3wYeSveIWUQ
+273,"[['microphone', 0.19730069], ['cardigan', 0.13741446], ['monitor', 0.066568926], ['oboe', 0.041053887], ['sax', 0.031194529]]",981PGehcrjM
+274,"[['monitor', 0.12817377], ['laptop', 0.06091689], ['cardigan', 0.055978976], ['hippopotamus', 0.038254797], ['television', 0.027228495]]",jLx2sTEUAg0
+275,"[['marimba', 0.28342476], ['theater curtain', 0.09194662], ['snowplow', 0.074612506], ['stage', 0.062137812], ['plow', 0.04865776]]",1IaYvh1GZNY
+276,"[['television', 0.9976675], ['scoreboard', 0.00081626076], ['screen', 0.00054393726], ['monitor', 0.0002226839], ['hand-held computer', 0.0001962796]]",h-M58qUTxXg
+277,"[['Windsor tie', 0.11698877], ['library', 0.106533], ['suit', 0.090395145], ['tobacco shop', 0.08994996], ['desk', 0.07725543]]",49kO8Baj-uI
+278,"[['lotion', 0.486259], ['packet', 0.061329007], ['torch', 0.05177098], ['hair spray', 0.047282703], ['sunscreen', 0.032281276]]",YXI8yhsLQRU
+279,"[['television', 0.5067297], ['web site', 0.20771487], ['monitor', 0.13795488], ['Windsor tie', 0.03187564], ['projector', 0.013559444]]",UwySe7gCxQg
+280,"[['bow tie', 0.95939344], ['academic gown', 0.0047740364], ['web site', 0.004767821], ['Windsor tie', 0.0034084867], ['television', 0.002878349]]",yGW-JG0ey7I
+281,"[['cowboy hat', 0.22495057], ['comic book', 0.12303618], ['sombrero', 0.11014713], ['academic gown', 0.054611556], ['web site', 0.021855542]]",22LJUa4_t1I
+282,"[['bow tie', 0.92630225], ['sombrero', 0.02548292], ['cowboy hat', 0.012622903], ['television', 0.004386032], ['Windsor tie', 0.0030468812]]",7upmXPYsj9o
+283,"[['television', 0.42370376], ['monitor', 0.2503884], ['hair spray', 0.07631517], ['groom', 0.06611705], ['screen', 0.017005676]]",q4yySLdDVaQ
+284,"[['seat belt', 0.34521902], ['chain mail', 0.08366551], ['bathtub', 0.063291095], ['tub', 0.027448907], ['maillot', 0.022370106]]",55fbsBE56MU
+285,"[['television', 0.4057563], ['comic book', 0.31377837], ['web site', 0.03457847], ['slot', 0.017126786], ['home theater', 0.012625638]]",tktEAa79lwg
+286,"[['television', 0.69619036], ['web site', 0.2185706], ['monitor', 0.030034393], ['screen', 0.018497571], ['oxygen mask', 0.006150485]]",0qXuuM_39O4
+287,"[['face powder', 0.078940265], ['Band Aid', 0.075883105], ['bikini', 0.06996945], ['web site', 0.043328397], ['harp', 0.025519403]]",tB0ApQWQTLs
+288,"[['ski mask', 0.30322653], ['chain mail', 0.2817509], ['shield', 0.060837477], ['torch', 0.031080581], ['television', 0.030931683]]",8pFwPKNDF6E
+289,"[['car mirror', 0.7923941], ['seat belt', 0.09804119], ['television', 0.03458633], ['home theater', 0.01010696], ['screen', 0.008449616]]",xlcNWxevZQA
+290,"[['vestment', 0.5500289], ['barbershop', 0.09305745], ['marimba', 0.020413456], ['comic book', 0.014268982], ['prison', 0.012941407]]",0TMoHVWEUnE
+291,"[['golfcart', 0.42973387], ['amphibian', 0.026936166], ['sports car', 0.025363041], ['lawn mower', 0.025273401], ['television', 0.020539558]]",AFK84yX2C-k
+292,"[['comic book', 0.28922012], ['book jacket', 0.06514764], ['microphone', 0.04966013], ['rifle', 0.04651248], ['cloak', 0.028009957]]",aWoogYje_OM
+293,"[['book jacket', 0.50454223], ['comic book', 0.11900056], ['television', 0.10010378], ['web site', 0.027060105], ['screen', 0.017717516]]",_0qi8ahRSrY
+294,"[['bathtub', 0.074379385], ['web site', 0.07213537], ['pajama', 0.07109989], ['stole', 0.06488004], ['seashore', 0.060764283]]",UW1DjnCBcSY
+295,"[['great white shark', 0.1049076], ['television', 0.09580039], ['grey whale', 0.07972993], ['scuba diver', 0.060679965], ['oxygen mask', 0.052762706]]",s-rbGWQGb7E
+296,"[['television', 0.1822471], ['stage', 0.17502521], ['monitor', 0.049806762], ['spotlight', 0.037043065], ['microphone', 0.033870865]]",w5ydzOCnVBM
+297,"[['grand piano', 0.6171091], ['barn spider', 0.06448174], ['spotlight', 0.051193994], ['spider web', 0.050881974], ['cinema', 0.017686881]]",sSo9wP0LpgU
+298,"[['television', 0.6466225], ['sax', 0.21261558], ['whistle', 0.038780015], ['web site', 0.017165927], ['bulletproof vest', 0.009673798]]",tP3DAwX2tuo
+299,"[['stage', 0.49064088], ['television', 0.10311673], ['home theater', 0.10276773], ['monitor', 0.037951738], ['screen', 0.016416334]]",H4wOhP_dv-M
+300,"[['television', 0.21094017], ['electric guitar', 0.089447975], ['home theater', 0.061750155], ['iPod', 0.050287507], ['stage', 0.029335309]]",GEPMcxd1zkU
+301,"[['syringe', 0.1544295], ['paintbrush', 0.068267144], ['web site', 0.056343697], ['bow tie', 0.039635535], ['bassoon', 0.039380703]]",zaD5j3w19Rk
+302,"[['television', 0.25611246], ['web site', 0.1944384], ['monitor', 0.17499733], ['screen', 0.10356102], ['wig', 0.045424473]]",p4RIhcY7V3c
+303,"[['book jacket', 0.42978972], ['bassoon', 0.06561415], ['comic book', 0.02968412], ['web site', 0.017728506], ['bulletproof vest', 0.0073273857]]",HJOQtU0joTI
+304,"[['cinema', 0.14407966], ['scoreboard', 0.13925149], ['tobacco shop', 0.041806128], ['digital clock', 0.03567123], ['comic book', 0.035441156]]",79DF7QEGGpE
+305,"[['television', 0.815441], ['Windsor tie', 0.06421511], ['monitor', 0.017794587], ['suit', 0.016290603], ['sax', 0.013313504]]",X7OUDLlCOPM
+306,"[['television', 0.15602508], ['web site', 0.13456431], ['laptop', 0.0686023], ['hand-held computer', 0.035196405], ['screen', 0.025829967]]",NS7uL8YD-uo
+307,"[['television', 0.12630628], ['monitor', 0.056404114], ['pajama', 0.05380363], ['web site', 0.052335195], ['balance beam', 0.043579515]]",NUXSylFLzIk
+308,"[['comic book', 0.1023571], ['book jacket', 0.09548877], ['web site', 0.07501686], ['microphone', 0.06375223], ['television', 0.059502684]]",M4fmOAFQN8I
+309,"[['reflex camera', 0.23500182], ['loupe', 0.12635659], ['oxygen mask', 0.06511761], ['car mirror', 0.040911492], ['web site', 0.03410824]]",ETcx4R4-3Bo
+310,"[['television', 0.12806383], ['web site', 0.072665334], ['teddy', 0.04364834], ['Bedlington terrier', 0.039874133], ['Lakeland terrier', 0.035066236]]",73zcKG4M2PU
+311,"[['tobacco shop', 0.70544237], ['comic book', 0.1123615], ['book jacket', 0.097552285], ['gong', 0.0046442426], ['bookshop', 0.0046182964]]",6T7pUEZfgdI
+312,"[['web site', 0.55035406], ['book jacket', 0.1329118], ['television', 0.014967415], ['street sign', 0.013150154], ['sunglasses', 0.011101211]]",kL61yQgdWeM
+313,"[['Windsor tie', 0.8430911], ['suit', 0.044005185], ['academic gown', 0.011246], ['television', 0.010700871], ['web site', 0.00488447]]",-5RCmu-HuTg
+314,"[['web site', 0.4202125], ['television', 0.023985403], ['street sign', 0.02285039], ['bulletproof vest', 0.020405352], ['book jacket', 0.014111914]]",cwiJlQUrwdA
+315,"[['web site', 0.47167492], ['bow tie', 0.16624384], ['Windsor tie', 0.1001591], ['television', 0.07074132], ['book jacket', 0.013081342]]",9XjYr8DwSGs
+316,"[['television', 0.7795367], ['Windsor tie', 0.050620575], ['suit', 0.03622993], ['monitor', 0.035932906], ['screen', 0.024758438]]",Ddzf9Mm4hdY
+317,"[['microphone', 0.10546913], ['bulletproof vest', 0.102776825], ['Windsor tie', 0.0998915], ['suit', 0.082771584], ['dumbbell', 0.067043394]]",7QRQjrsFnR4
+318,"[['television', 0.5935566], ['monitor', 0.23657177], ['home theater', 0.031278707], ['web site', 0.019894714], ['cinema', 0.018949851]]",29ooflZJzBM
+319,"[['web site', 0.59452826], ['maillot', 0.029031057], ['gown', 0.021342214], ['jean', 0.017793331], ['book jacket', 0.017095001]]",TyDehGZgHPI
+320,"[['web site', 0.5223179], ['trench coat', 0.16792877], ['television', 0.064326815], ['lab coat', 0.023572594], ['monitor', 0.022936333]]",FpAiA13knnY
+321,"[['television', 0.5893391], ['monitor', 0.37040627], ['home theater', 0.017754052], ['screen', 0.0076416037], ['cinema', 0.0029758965]]",mQmnJoI67m8
+322,"[['comic book', 0.23260668], ['hair spray', 0.061002262], ['television', 0.03737829], ['web site', 0.037314963], ['cinema', 0.03526135]]",XutBBHOYIXs
+323,"[['television', 0.3059668], ['stage', 0.2677589], ['monitor', 0.052938167], ['theater curtain', 0.03761066], ['home theater', 0.024058785]]",fhgKImYRHUo
+324,"[['monitor', 0.81506836], ['laptop', 0.027929602], ['desktop computer', 0.022601059], ['screen', 0.020590767], ['projector', 0.018989895]]",3WOD6RJEIzU
+325,"[['groom', 0.31019893], ['microphone', 0.2617765], ['stage', 0.11981461], ['gown', 0.08942593], ['hoopskirt', 0.027129253]]",8jhcGWgXD2A
+326,"[['television', 0.55787086], ['monitor', 0.23571913], ['web site', 0.11983215], ['screen', 0.012758033], ['book jacket', 0.0065922844]]",9-IxEa92xTQ
+327,"[['suit', 0.4754444], ['Windsor tie', 0.097111195], ['Sussex spaniel', 0.04915242], ['Loafer', 0.029985173], ['academic gown', 0.0134423245]]",ui1SquTFnxo
+328,"[['television', 0.2972589], ['monitor', 0.17114112], ['barbell', 0.12504525], ['web site', 0.098734744], ['football helmet', 0.044876855]]",VobRcFb89fs
+329,"[['web site', 0.23338257], ['comic book', 0.18910992], ['Windsor tie', 0.074219175], ['television', 0.0737134], ['book jacket', 0.06199496]]",hFAFxv363pY
+330,"[['microphone', 0.16864422], ['harp', 0.082410514], ['pole', 0.04843587], ['stage', 0.03892381], ['web site', 0.03867121]]",druz9bUXFL8
+331,"[['barbell', 0.15507184], ['basketball', 0.047633268], ['dumbbell', 0.030723454], ['volleyball', 0.026947021], ['web site', 0.0152720595]]",yVyrJLjpIR0
+332,"[['ping-pong ball', 0.3402874], ['scoreboard', 0.07895359], ['basketball', 0.0577871], ['ballplayer', 0.023578087], ['comic book', 0.02296576]]",f8m3CGUrqzU
+333,"[['microphone', 0.9497044], ['hand blower', 0.022855647], ['comic book', 0.0038124835], ['binoculars', 0.0023729084], ['book jacket', 0.0017869885]]",4Jhln2jz5hU
+334,"[['Windsor tie', 0.37879714], ['suit', 0.11895205], ['comic book', 0.1033529], ['television', 0.04741964], ['web site', 0.03577433]]",ZuxAQIpKD30
+335,"[['microphone', 0.9964696], ['stage', 0.00090361206], ['book jacket', 0.00029409336], ['sax', 0.00022612147], ['harmonica', 0.00012231643]]",KITiNCJJ34s
+336,"[['web site', 0.15006402], ['television', 0.09087869], ['comic book', 0.078107856], ['magnetic compass', 0.07211393], ['jersey', 0.042959444]]",PJzVl7t31uA
+337,"[['comic book', 0.5934316], ['television', 0.19607951], ['Windsor tie', 0.09452469], ['web site', 0.01790219], ['suit', 0.014044603]]",gNxhHEtAoAg
+338,"[['maillot', 0.17325029], ['television', 0.13443169], ['stage', 0.119157985], ['wig', 0.073766276], ['web site', 0.05741252]]",RF2R_C2lpjc
+339,"[['basketball', 0.38208514], ['volleyball', 0.03352129], ['bulletproof vest', 0.02664342], ['maillot', 0.020621441], ['barbell', 0.01497717]]",T267Zyi6V3M
+340,"[['prison', 0.22359194], ['television', 0.12722017], ['web site', 0.11279697], ['barbershop', 0.05524702], ['laptop', 0.040324964]]",EZ7gQMgdDRE
+341,"[['microphone', 0.8801431], ['hand blower', 0.037103023], ['comic book', 0.022509044], ['book jacket', 0.004311009], ['bulletproof vest', 0.0036355187]]",6joxqWBE5lQ
+342,"[['basketball', 0.99787986], ['volleyball', 0.00031683114], ['unicycle', 8.40756e-05], ['ballplayer', 6.446447e-05], ['maillot', 5.2936677e-05]]",zcVPLnR-c3g
+343,"[['microphone', 0.96783566], ['book jacket', 0.0045937845], ['school bus', 0.0029228432], ['comic book', 0.0018403323], ['bookshop', 0.0010399905]]",o2_OS8yq3qs
+344,"[['bow tie', 0.7835105], ['sombrero', 0.08913702], ['cowboy hat', 0.0145213995], ['cornet', 0.008741512], ['sax', 0.005684406]]",LMCfk7xXsRg
+345,"[['lab coat', 0.42508295], ['web site', 0.12534769], ['screen', 0.030679334], ['hand-held computer', 0.01825321], ['monitor', 0.014589132]]",bdJpG_At99Q
+346,"[['television', 0.6389904], ['monitor', 0.2062349], ['basketball', 0.045351185], ['screen', 0.02640747], ['home theater', 0.0101412935]]",3Hu68XTA6bE
+347,"[['television', 0.8235548], ['monitor', 0.10056382], ['web site', 0.020670732], ['screen', 0.019772045], ['home theater', 0.008976209]]",wV2x5PBvnnQ
+348,"[['microphone', 0.36473343], ['whistle', 0.08520539], ['bulletproof vest', 0.06724097], ['cellular telephone', 0.04865369], ['sunglass', 0.03331321]]",SNp2YgNUmIc
+349,"[['sweatshirt', 0.70886964], ['tench', 0.020493481], ['cloak', 0.012811167], ['barracouta', 0.012395547], ['poncho', 0.0097583365]]",q3aC_MJe5F0
+350,"[['comic book', 0.26036474], ['Indian cobra', 0.038372077], ['sax', 0.025469603], ['microphone', 0.02330786], ['hand blower', 0.018600358]]",FaARGp33Owo
+351,"[['microphone', 0.53209263], ['stage', 0.040260773], ['book jacket', 0.023556227], ['power drill', 0.022439314], ['hand blower', 0.02156469]]",ffbyaX9Ymt8
+352,"[['steel drum', 0.50964147], ['whistle', 0.14622988], ['ping-pong ball', 0.058523756], ['maraca', 0.052002586], ['ballplayer', 0.04263338]]",AwbSTjCRQDQ
+353,"[['television', 0.344799], ['monitor', 0.094152786], ['web site', 0.054908443], ['screen', 0.02440738], ['sax', 0.0232731]]",eBtrceW0itw
+354,"[['television', 0.76724195], ['screen', 0.07167654], ['monitor', 0.06308552], ['torch', 0.009028813], ['lab coat', 0.00619869]]",q507UbmCLXo
+355,"[['panpipe', 0.2917764], ['theater curtain', 0.13439676], ['comic book', 0.061528917], ['cinema', 0.054697074], ['web site', 0.04882201]]",mq4gwljQXYo
+356,"[['gasmask', 0.5807125], ['reflex camera', 0.13466817], ['oxygen mask', 0.031452097], ['assault rifle', 0.025005937], ['sax', 0.023711141]]",AfI6k-5_Q2o
+357,"[['altar', 0.26258686], ['pot', 0.050984364], ['greenhouse', 0.031156609], ['candle', 0.028174074], ['clog', 0.026285606]]",R8pgcOkh1yU
+358,"[['maillot', 0.1090032], ['television', 0.06670785], ['neck brace', 0.056290206], ['monitor', 0.040793665], ['bow tie', 0.037954386]]",LwMfDh8nagY
+359,"[['bulletproof vest', 0.4201917], ['pay-phone', 0.17844917], ['microphone', 0.08074284], ['dial telephone', 0.03571236], ['hand blower', 0.0181563]]",Jb_q1BBC8KA
+360,"[['digital clock', 0.60695714], ['stopwatch', 0.15870468], ['odometer', 0.06446954], ['digital watch', 0.023572255], ['jersey', 0.010728014]]",fTPHw_A1gFg
+361,"[['prison', 0.2941721], ['lipstick', 0.109100334], ['bow', 0.040034156], ['comic book', 0.01731916], ['academic gown', 0.014899174]]",KKWNnKhGjWA
+362,"[['microphone', 0.99501234], ['stage', 0.0021979758], ['sax', 0.0015907219], ['television', 0.00018724141], ['Indian cobra', 6.0734674e-05]]",jGk9NZ4Ezqk
+363,"[['academic gown', 0.6831223], ['mortarboard', 0.06957511], ['vestment', 0.035574567], ['Windsor tie', 0.016982403], ['dumbbell', 0.008684783]]",imUWgDI0FhE
+364,"[['potpie', 0.6164809], ['plate', 0.10212054], ['meat loaf', 0.0392023], ['hotdog', 0.015611579], ['burrito', 0.01369156]]",lCPsMawKJLQ
+365,"[['Windsor tie', 0.35854608], ['monitor', 0.2198836], ['suit', 0.08997593], ['tobacco shop', 0.03608676], ['scoreboard', 0.030469006]]",c_CWhv86Wc0
+366,"[['Windsor tie', 0.39181444], ['suit', 0.11672801], ['monitor', 0.06150882], ['web site', 0.042387687], ['bookcase', 0.030835142]]",wx_UwEtPegs
+367,"[['bannister', 0.25527835], ['horizontal bar', 0.20656554], ['balance beam', 0.10938175], ['parallel bars', 0.018086422], ['monitor', 0.01777446]]",0_K4z_7fvGA
+368,"[['Indian cobra', 0.5972143], ['microphone', 0.38730797], ['stage', 0.005246676], ['lab coat', 0.002100013], ['sax', 0.0020566962]]",Gorsb66iHOs
+369,"[['horizontal bar', 0.16325907], ['basketball', 0.16246842], ['ballplayer', 0.07132733], ['stage', 0.07121521], ['jersey', 0.06817834]]",BiH84dAQcXU
+370,"[['stage', 0.26802915], ['Windsor tie', 0.04114796], ['comic book', 0.040713567], ['Sussex spaniel', 0.0371946], ['abaya', 0.033268876]]",SJq9uqaR0aM
+371,"[['stage', 0.21848114], ['cinema', 0.17260408], ['scoreboard', 0.09496177], ['comic book', 0.09370424], ['home theater', 0.028367331]]",Ym5eJeFnO4k
+372,"[['television', 0.27663243], ['pole', 0.088330396], ['horizontal bar', 0.057061747], ['ice lolly', 0.044190686], ['racket', 0.030373491]]",B3QpjFEaSaA
+373,"[['microphone', 0.78212786], ['stage', 0.05015775], ['television', 0.02832221], ['ice lolly', 0.018780658], ['maraca', 0.006591012]]",hWwTI0MNa7E
+374,"[['television', 0.4214347], ['web site', 0.082691096], ['monitor', 0.072063856], ['screen', 0.039783493], ['bulletproof vest', 0.03829413]]",eJU6S5KOsNI
+375,"[['stethoscope', 0.7222574], ['television', 0.038564716], ['neck brace', 0.024095112], ['web site', 0.021649854], ['lab coat', 0.014478738]]",95GAw9LptFE
+376,"[['monitor', 0.27252135], ['television', 0.13475965], ['web site', 0.0594512], ['screen', 0.059351895], ['comic book', 0.05174808]]",_D98X6ST5y4
+377,"[['television', 0.38263986], ['comic book', 0.3563736], ['book jacket', 0.12549503], ['screen', 0.021768378], ['home theater', 0.020601386]]",m7FqVsrLQ9w
+378,"[['Windsor tie', 0.17089942], ['comic book', 0.14751647], ['web site', 0.12283654], ['bulletproof vest', 0.03398418], ['sax', 0.022456795]]",WWsn7jZFDUg
+379,"[['laptop', 0.1155707], ['web site', 0.08540635], ['television', 0.07956345], ['torch', 0.045336217], ['home theater', 0.021633333]]",qgjtpiICMdE
+380,"[['book jacket', 0.33512747], ['theater curtain', 0.12615459], ['web site', 0.08854776], ['cinema', 0.044107143], ['ballplayer', 0.030448692]]",sh3s_Bgf3cQ
+381,"[['television', 0.18151103], ['window shade', 0.08427851], ['Windsor tie', 0.07638864], ['neck brace', 0.0721781], ['web site', 0.048298705]]",F0M1EtXpqUw
+382,"[['pajama', 0.2713897], ['television', 0.059364498], ['window shade', 0.039051928], ['restaurant', 0.025210313], ['web site', 0.02274558]]",P8jVv0sNK7U
+383,"[['Windsor tie', 0.29176956], ['comic book', 0.1396835], ['television', 0.06187432], ['suit', 0.057922438], ['barbershop', 0.033381466]]",pMqTjapoUUw
+384,"[['lab coat', 0.41226053], ['Windsor tie', 0.37419942], ['suit', 0.0572578], ['web site', 0.021714317], ['military uniform', 0.011366725]]",fBdG6lrk0W8
+385,"[['comic book', 0.7591786], ['slot', 0.07285578], ['web site', 0.01374536], ['book jacket', 0.012640932], ['school bus', 0.002703569]]",EeghAmB1W8o
+386,"[['comic book', 0.25950953], ['bow', 0.21817492], ['maypole', 0.14901504], ['cuirass', 0.028757757], ['trombone', 0.021869104]]",U0cp0TyJH5Q
+387,"[['comic book', 0.6237291], ['book jacket', 0.28058976], ['bookshop', 0.002380458], ['television', 0.0020725094], ['tennis ball', 0.0019478591]]",qJyLDmh7me8
+388,"[['television', 0.4705734], ['home theater', 0.12976564], ['loupe', 0.10903197], ['comic book', 0.03884173], ['screen', 0.030363774]]",bV5YNCsY66Y
+389,"[['comic book', 0.86824834], ['book jacket', 0.08474299], ['web site', 0.004057371], ['television', 0.0007786279], ['church', 0.0006460928]]",vxw00NkUugo
+390,"[['television', 0.33971313], ['comic book', 0.30989605], ['cinema', 0.060115945], ['book jacket', 0.045325194], ['web site', 0.02674006]]",3L7jGtTT4h8
+391,"[['comic book', 0.36715913], ['television', 0.1908696], ['home theater', 0.10998975], ['cinema', 0.073982805], ['monitor', 0.023902986]]",oD-QVbHyjow
+392,"[['bookcase', 0.32086802], ['marimba', 0.16217731], ['comic book', 0.13979669], ['bookshop', 0.12669201], ['library', 0.09257218]]",q1a9en8wY0s
+393,"[['suit', 0.14757693], ['Windsor tie', 0.07612139], ['web site', 0.051081296], ['torch', 0.032061644], ['television', 0.026740372]]",fZcQah57jnY
+394,"[['web site', 0.4078667], ['book jacket', 0.25835523], ['comic book', 0.04825691], ['sunglass', 0.012146378], ['jean', 0.012102406]]",_OlukPUb-UE
+395,"[['television', 0.6204593], ['web site', 0.110492595], ['Windsor tie', 0.051457584], ['sax', 0.026442414], ['bulletproof vest', 0.012606959]]",bmUxvX2z5N0
+396,"[['monitor', 0.42389128], ['television', 0.18699783], ['torch', 0.0767803], ['screen', 0.044203687], ['web site', 0.018594924]]",Ohws8y572KE
+397,"[['television', 0.42679304], ['book jacket', 0.19328223], ['screen', 0.11932038], ['car mirror', 0.057021394], ['home theater', 0.02470655]]",qkJ-n5ZmGIo
+398,"[['television', 0.19328697], ['monitor', 0.078254275], ['hand-held computer', 0.074314736], ['prison', 0.06786273], ['racket', 0.020446725]]",IiVh4oUrQn0
+399,"[['racket', 0.13687605], ['television', 0.13076732], ['ballplayer', 0.055211253], ['monitor', 0.049306612], ['balance beam', 0.049254775]]",zo0H4D2nagg
+400,"[['stage', 0.737325], ['theater curtain', 0.084934324], ['spotlight', 0.02303531], ['fountain', 0.012330464], ['electric guitar', 0.006096806]]",1UQ9Y46s5PU
+401,"[['stage', 0.8671995], ['theater curtain', 0.10439549], ['carousel', 0.002997414], ['home theater', 0.0020735539], ['electric guitar', 0.0020195886]]",cpYA9mQ4rA4
+402,"[['stage', 0.5905246], ['electric guitar', 0.0543214], ['theater curtain', 0.053889543], ['accordion', 0.01082506], ['home theater', 0.0069244793]]",HySr79wZ364
+403,"[['home theater', 0.1315523], ['monitor', 0.11896529], ['stage', 0.11385796], ['television', 0.09260627], ['fountain', 0.06145751]]",pjscAFB-U4o
+404,"[['stage', 0.48193544], ['theater curtain', 0.17059065], ['spotlight', 0.086290486], ['comic book', 0.032738227], ['electric guitar', 0.03029238]]",rH1PVvFj8cE
+405,"[['television', 0.8128025], ['monitor', 0.14044885], ['stage', 0.013492317], ['screen', 0.0063862456], ['balance beam', 0.0029963204]]",y5tXFihTgxg
+406,"[['television', 0.25179547], ['monitor', 0.061940353], ['bassoon', 0.055758327], ['stage', 0.051707093], ['wig', 0.03343197]]",eqMd15DLttY
+407,"[['stage', 0.8733303], ['electric guitar', 0.028049232], ['theater curtain', 0.023733452], ['sax', 0.02033197], ['accordion', 0.007678873]]",60Ks0ybPuac
+408,"[['ocarina', 0.21662176], ['harmonica', 0.19114159], ['jean', 0.04100338], ['abaya', 0.03339987], ['Windsor tie', 0.027745266]]",Hoz5OQjXEA8
+409,"[['television', 0.6564237], ['monitor', 0.31341094], ['screen', 0.008464791], ['web site', 0.004209479], ['hand-held computer', 0.003924916]]",x5ZeAfz4G3s
+410,"[['hair spray', 0.17998143], ['wig', 0.10241075], ['bonnet', 0.045309722], ['bulletproof vest', 0.03801171], ['racket', 0.015998747]]",hZ5_T1NZdoM
+411,"[['comic book', 0.20295985], ['axolotl', 0.1389762], ['television', 0.07661499], ['wig', 0.072510876], ['hair spray', 0.05959248]]",serIs70zQzQ
+412,"[['television', 0.22364518], ['bubble', 0.16412595], ['balloon', 0.0583099], ['web site', 0.025049638], ['monitor', 0.02415658]]",jz35qmOUFFo
+413,"[['hamster', 0.10639844], ['weasel', 0.08445216], ['loupe', 0.051465154], ['polecat', 0.044381138], ['mousetrap', 0.028630538]]",0utqwnvanzg
+414,"[['book jacket', 0.56875885], ['comic book', 0.05178959], ['racket', 0.040933512], ['cliff', 0.03225623], ['coil', 0.020830637]]",ZqkVT2Qrjnc
+415,"[['television', 0.15872292], ['cinema', 0.14095798], ['monitor', 0.060526554], ['stretcher', 0.03845416], ['groom', 0.03802519]]",TjSkzlxoNEA
+416,"[['web site', 0.678217], ['wig', 0.07222298], ['hair spray', 0.035986576], ['loupe', 0.023916224], ['television', 0.013680892]]",Qdjna4Nh7DM
+417,"[['comic book', 0.1861379], ['television', 0.111762956], ['web site', 0.07000204], ['hair spray', 0.060149975], ['cinema', 0.056367833]]",E6BQgrWIVIM
+418,"[['volleyball', 0.740604], ['basketball', 0.05915646], ['jersey', 0.038891245], ['soccer ball', 0.015996862], ['football helmet', 0.010346899]]",HN8xm6xdgQs
+419,"[['amphibian', 0.7311738], ['convertible', 0.07947454], ['tractor', 0.016578086], ['Model T', 0.012500495], ['sports car', 0.011491525]]",d7QmQtNwhcU
+420,"[['sombrero', 0.680809], ['cowboy hat', 0.11708177], ['television', 0.050782602], ['bolo tie', 0.015101065], ['monitor', 0.008995111]]",bRwHBlG-Pqo
+421,"[['television', 0.47302893], ['torch', 0.24092034], ['monitor', 0.11243236], ['street sign', 0.013475262], ['maillot', 0.009190281]]",S1spbw7tDBc
+422,"[['tripod', 0.35263717], ['microphone', 0.27468625], ['wig', 0.03684427], ['binoculars', 0.02781421], ['reflex camera', 0.023877617]]",TXtWHr7aWwU
+423,"[['television', 0.5083066], ['screen', 0.12695165], ['monitor', 0.09406966], ['web site', 0.058644883], ['home theater', 0.056830514]]",HptzwRXjYB8
+424,"[['toyshop', 0.49364126], ['monitor', 0.19605678], ['television', 0.09914495], ['screen', 0.045335807], ['slot', 0.020346126]]",BRAKFmTcxfI
+425,"[['monitor', 0.33307827], ['web site', 0.11249806], ['television', 0.087304085], ['screen', 0.070113815], ['slot', 0.024126703]]",ac_IY3LE6mI
+426,"[['web site', 0.93810964], ['monitor', 0.014479809], ['screen', 0.0035045655], ['macaw', 0.0018889924], ['oscilloscope', 0.0016564437]]",xbYtRV2uIsw
+427,"[['web site', 0.6203545], ['television', 0.16109663], ['parachute', 0.07221802], ['monitor', 0.008783762], ['comic book', 0.008035155]]",Qspi4H-w8EY
+428,"[['television', 0.44065925], ['stage', 0.18304391], ['monitor', 0.14186804], ['groom', 0.055628844], ['wig', 0.011891084]]",Md8rZ4N7o_w
+429,"[['bearskin', 0.98241293], ['military uniform', 0.0022242435], ['bikini', 0.0014223178], ['wig', 0.000691374], ['monitor', 0.00057309645]]",NopJxDXHPY4
+430,"[['web site', 0.7841843], ['hair spray', 0.01769961], ['book jacket', 0.010872145], ['comic book', 0.0102142915], ['toyshop', 0.006351181]]",N9MN1CuR52Q
+431,"[['cinema', 0.33778337], ['monitor', 0.25210103], ['television', 0.08292944], ['web site', 0.07011275], ['bobsled', 0.061995562]]",8muHX_I2nOw
+432,"[['torch', 0.15442711], ['monitor', 0.10418295], ['television', 0.041665707], ['stage', 0.041473985], ['theater curtain', 0.029324703]]",Ks76MsVhnWw
+433,"[['web site', 0.37489846], ['stage', 0.054783978], ['cinema', 0.03490443], ['monitor', 0.033958506], ['theater curtain', 0.0313532]]",DmdezafV6ko
+434,"[['television', 0.43693954], ['whistle', 0.1520231], ['monitor', 0.14905772], ['screen', 0.05362519], ['wig', 0.044846985]]",7M1HuHDPKdg
+435,"[['television', 0.37134328], ['web site', 0.23548931], ['monitor', 0.22625647], ['screen', 0.089419335], ['hair spray', 0.013906428]]",oOPfmDv7lkY
+436,"[['prison', 0.15387549], ['cinema', 0.11241127], ['projector', 0.042536713], ['balance beam', 0.033836998], ['shoji', 0.024465261]]",fiNrArzZa7Q
+437,"[['stage', 0.7725643], ['theater curtain', 0.1991966], ['web site', 0.004394326], ['cinema', 0.004302484], ['comic book', 0.0024448205]]",Qxde05RvVP8
+438,"[['ski', 0.7188395], ['crutch', 0.102730796], ['alp', 0.05836658], ['bannister', 0.039773308], ['mountain bike', 0.008456569]]",GDj5wCEYlsk
+439,"[['lab coat', 0.39023897], ['monitor', 0.124495186], ['television', 0.09536255], ['web site', 0.06606239], ['screen', 0.046249133]]",ZqO5C4WyoJw
+440,"[['bassoon', 0.25592098], ['sax', 0.18990214], ['electric guitar', 0.15926148], ['banjo', 0.13551232], ['cornet', 0.08392026]]",SuD-1yDv5u0
+441,"[[""potter's wheel"", 0.23341157], ['monitor', 0.16254137], ['candle', 0.1155249], ['web site', 0.044476423], ['hand-held computer', 0.034396913]]",OhYkD4ekCOM
+442,"[['comic book', 0.32645047], ['maillot', 0.21022624], ['jersey', 0.08425429], ['television', 0.060223304], ['volleyball', 0.038964342]]",o3TLgrXYzaQ
+443,"[['racket', 0.11157827], ['television', 0.105474986], ['web site', 0.08384196], ['bulletproof vest', 0.059413765], ['tennis ball', 0.049853608]]",dUnIji1NmWQ
+444,"[['matchstick', 0.15249051], ['puck', 0.089159876], ['television', 0.0388499], ['frying pan', 0.023438381], ['candle', 0.02174593]]",0B_Lu-Im408
+445,"[['cinema', 0.6859617], ['home theater', 0.23560065], ['theater curtain', 0.027404824], ['scoreboard', 0.009592468], ['stage', 0.005959607]]",KBDOu0lyfp0
+446,"[['comic book', 0.14943162], ['book jacket', 0.0806928], ['tennis ball', 0.04984775], ['web site', 0.046281714], ['jersey', 0.046267103]]",6PREceKdkss
+447,"[['web site', 0.111345634], ['monitor', 0.08288544], ['television', 0.051760457], ['bulletproof vest', 0.047396705], ['magnetic compass', 0.040003143]]",jW5jobEpkk4
+448,"[['wig', 0.37061638], ['television', 0.09589863], ['web site', 0.038140234], ['comic book', 0.034579854], ['microphone', 0.029016893]]",0ixAnESO7tM
+449,"[['bolo tie', 0.51975346], ['lighter', 0.062029805], ['necklace', 0.037473705], ['letter opener', 0.03463777], ['traffic light', 0.02508665]]",6_s44JJ1nwA
+450,"[['comic book', 0.513586], ['torch', 0.050399516], ['book jacket', 0.033829745], ['scoreboard', 0.022580408], ['jersey', 0.012912817]]",zbZwMPwmzjQ
+451,"[['television', 0.25518498], ['web site', 0.1506022], ['stage', 0.11699074], ['harmonica', 0.0739887], ['home theater', 0.04635963]]",pd7AMDMotyM
+452,"[['web site', 0.08652172], ['rhinoceros beetle', 0.08022693], ['ground beetle', 0.06656323], ['scorpion', 0.039297685], ['long-horned beetle', 0.035577063]]",q78N4pffI8g
+453,"[['toyshop', 0.55475986], ['tobacco shop', 0.2760948], ['bookshop', 0.046757586], ['comic book', 0.03269051], ['grocery store', 0.012267222]]",bOZT-UpRA2Y
+454,"[['cowboy hat', 0.9723652], ['sombrero', 0.02141807], ['revolver', 0.00082216796], ['cowboy boot', 0.00062970695], ['comic book', 0.00054581003]]",peLDvPZnsQs
+455,"[['cowboy hat', 0.23709916], ['web site', 0.16493554], ['crutch', 0.095423646], ['barber chair', 0.037821967], ['lab coat', 0.03179566]]",aytxswg8dzM
+456,"[['acoustic guitar', 0.6175001], ['cello', 0.17099136], ['banjo', 0.07679675], ['violin', 0.04643373], ['electric guitar', 0.026299816]]",69WmX3PmguM
+457,"[['marimba', 0.51405567], ['stage', 0.122581944], ['theater curtain', 0.0921833], ['cinema', 0.046328656], ['balance beam', 0.008314985]]",SkgUbSvuqV0
+458,"[['television', 0.23486982], ['monitor', 0.18352391], ['stage', 0.057510577], ['jean', 0.021751687], ['web site', 0.018125704]]",nIRF7J29jXE
+459,"[['cowboy hat', 0.8667888], ['sombrero', 0.06847372], ['cornet', 0.017561322], ['sax', 0.0075992565], ['web site', 0.007047692]]",0YA-bp1G_t8
+460,"[['acoustic guitar', 0.2920351], ['stage', 0.082852155], ['recreational vehicle', 0.038194094], ['academic gown', 0.027368244], ['maraca', 0.026412314]]",LytEwk_HNaU
+461,"[['theater curtain', 0.16912346], ['stage', 0.16047822], ['spotlight', 0.13744387], ['television', 0.059689604], ['Windsor tie', 0.05413574]]",chkOkcEFGM0
+462,"[['microphone', 0.67273664], ['sax', 0.18782939], ['cornet', 0.01779428], ['acoustic guitar', 0.01330544], ['harmonica', 0.012573721]]",5JehnTqSS5o
+463,"[['monitor', 0.22872604], ['toyshop', 0.19805813], ['television', 0.06127135], ['medicine chest', 0.05094579], ['neck brace', 0.024947563]]",P24aQwSCAe4
+464,"[['toyshop', 0.2830695], ['monitor', 0.23984705], ['television', 0.078718945], ['neck brace', 0.02255738], ['medicine chest', 0.020205729]]",fy2XDBbDrAs
+465,"[['maillot', 0.1753883], ['book jacket', 0.11336574], ['comic book', 0.0701955], ['balance beam', 0.04770297], ['web site', 0.034738064]]",WUjnhhZtJi8
+466,"[['barbershop', 0.23887467], ['web site', 0.19345655], ['bakery', 0.045633182], ['cinema', 0.0407941], ['perfume', 0.038261723]]",k8NPo3ShNzc
+467,"[['microphone', 0.41337168], ['ballplayer', 0.11101704], ['Indian cobra', 0.08782614], ['flute', 0.07156676], ['whistle', 0.06727539]]",qiySQYZQL38
+468,"[['book jacket', 0.10833883], ['web site', 0.10681427], ['brassiere', 0.03356308], ['comic book', 0.033278417], ['cloak', 0.029611675]]",wBLWMdxvofM
+469,"[['microphone', 0.6186913], ['book jacket', 0.098087154], ['stage', 0.06578975], ['comic book', 0.044262677], ['sax', 0.0351314]]",0iR9oeipl1M
+470,"[['microphone', 0.7429688], ['hand blower', 0.17324226], ['book jacket', 0.0051871683], ['power drill', 0.004943368], ['comic book', 0.0046187667]]",3r5zFfUaSz0
+471,"[['microphone', 0.98725665], ['stage', 0.0059937444], ['sax', 0.0005148325], ['acoustic guitar', 0.0002349586], ['radio', 0.00018017343]]",eaDx3lkcpgA
+472,"[['microphone', 0.09542686], ['bulletproof vest', 0.0752311], ['Indian cobra', 0.062433377], ['comic book', 0.058915943], ['book jacket', 0.03387891]]",Nuyg6tOEp8I
+473,"[['jersey', 0.2832497], ['web site', 0.21472007], ['whistle', 0.05847844], ['tennis ball', 0.031341746], ['comic book', 0.0311855]]",y5twhlQ4f0o
+474,"[['monitor', 0.67650145], ['screen', 0.17302579], ['television', 0.069091775], ['web site', 0.015803054], ['notebook', 0.008302711]]",xeNbeftxXRM
+475,"[['web site', 0.20744722], ['balance beam', 0.08949586], ['book jacket', 0.04821425], ['comic book', 0.03886297], ['envelope', 0.030596815]]",pBU28vICV5A
+476,"[['book jacket', 0.80068195], ['comic book', 0.10808211], ['jersey', 0.00545622], ['tray', 0.0030782726], ['wallet', 0.002609183]]",kCKTrpHzAnM
+477,"[['abaya', 0.22345845], ['theater curtain', 0.10611042], ['gown', 0.08532191], ['cloak', 0.079244204], ['brassiere', 0.035984114]]",vqBaLPHgF50
+478,"[['tray', 0.19587314], ['envelope', 0.16391952], ['book jacket', 0.11926167], ['perfume', 0.10887789], ['vase', 0.05631645]]",fRqMD_T28cU
+479,"[['comic book', 0.21235688], ['chain', 0.0758154], ['prison', 0.04462931], ['bow tie', 0.03608857], ['web site', 0.028816303]]",lgJnbl4sWhs
+480,"[['vestment', 0.31669006], ['Chihuahua', 0.10200774], ['loupe', 0.05973629], ['banded gecko', 0.039761268], ['balance beam', 0.034000322]]",It-TJI9r6Sc
+481,"[['feather boa', 0.9999598], ['mask', 7.0520764e-06], ['wig', 2.1404612e-06], ['mortarboard', 1.7084997e-06], ['academic gown', 1.1018507e-06]]",DmVcPENMHQc
+482,"[['wig', 0.6988082], ['mask', 0.019826725], ['comic book', 0.0096800355], ['hair spray', 0.008991818], ['academic gown', 0.0073186923]]",PLGUVcXpZGQ
+483,"[['wig', 0.5960072], ['mask', 0.015949233], ['cinema', 0.015818672], ['abaya', 0.014261152], ['neck brace', 0.0129040005]]",ItREzxKlSZE
+484,"[['neck brace', 0.9465251], ['stole', 0.018216208], ['abaya', 0.007445525], ['syringe', 0.0015371663], ['photocopier', 0.0013361453]]",aOcx-Hp09fA
+485,"[['whistle', 0.10817695], ['ping-pong ball', 0.07873479], ['book jacket', 0.045768294], ['restaurant', 0.045153726], ['web site', 0.043884568]]",hLC_SKwScK4
+486,"[['feather boa', 0.99995065], ['mask', 3.9610977e-06], ['hoopskirt', 2.592015e-06], ['wig', 2.5395211e-06], ['gown', 2.5194604e-06]]",hrnEZZxlbqk
+487,"[['bulletproof vest', 0.3947187], ['comic book', 0.07608762], ['neck brace', 0.049491372], ['dumbbell', 0.024542287], ['web site', 0.014509806]]",JTyZeMPOP18
+488,"[['suit', 0.060005084], ['bassoon', 0.036174618], ['loupe', 0.033416986], ['drumstick', 0.03309475], ['jersey', 0.030920286]]",fKLHggsywpo
+489,"[['comic book', 0.9317818], ['book jacket', 0.031979013], ['web site', 0.007388007], ['television', 0.0026485191], ['cinema', 0.0013473732]]",jJ_qgJq5BI0
+490,"[['comic book', 0.2080956], ['torch', 0.17788999], ['book jacket', 0.16892442], ['theater curtain', 0.020396326], ['web site', 0.008899226]]",M9KxyahllRg
+491,"[['television', 0.5867206], ['monitor', 0.15838276], ['desktop computer', 0.052601997], ['web site', 0.043480076], ['suit', 0.04236327]]",awrYDk2zOz0
+492,"[['comic book', 0.73204803], ['television', 0.026685122], ['jigsaw puzzle', 0.014198254], ['monitor', 0.008375075], ['scoreboard', 0.008216129]]",w2E546Ha6AA
+493,"[['web site', 0.907494], ['monitor', 0.034527726], ['television', 0.023524854], ['hair spray', 0.0023266047], ['hair slide', 0.0014810907]]",i4JGSpVBEJU
+494,"[['swimming trunks', 0.42674914], ['barbell', 0.11562895], ['television', 0.059685607], ['volleyball', 0.03945353], ['dumbbell', 0.0351116]]",Ce44HlQNq3o
+495,"[['web site', 0.09705642], ['jersey', 0.08883201], ['comic book', 0.075049184], ['coffee mug', 0.066984385], ['book jacket', 0.06676561]]",YO3IxrBwN00
+496,"[['Windsor tie', 0.20069973], ['web site', 0.11555618], ['comic book', 0.07469281], ['television', 0.06025328], ['suit', 0.058944046]]",WbuKWyOKpJM
+497,"[['acoustic guitar', 0.6653936], ['banjo', 0.13464548], ['cello', 0.06613318], ['accordion', 0.015126281], ['electric guitar', 0.01436313]]",S0V-6Gn_C8c
+498,"[['book jacket', 0.33418423], ['web site', 0.13442], ['panpipe', 0.020383473], ['television', 0.016156888], ['jersey', 0.014506157]]",_Q7buGtDCU4
+499,"[['television', 0.67630863], ['bow', 0.07782223], ['academic gown', 0.027228817], ['web site', 0.01981924], ['mortarboard', 0.011792932]]",DLQBcAz8nzE
