@@ -10,6 +10,7 @@ our_data/Etap5/BartekData.json
 venv/
 CRAFT-pytorch/craft_mlt_25k.pth
 deep-text-recognition-benchmark/TPS-ResNet-BiLSTM-Attn.pth
+notebooks/Etap6/Shap_plots
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
